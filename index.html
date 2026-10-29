@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#f7f6ee"><meta name="description" content="适合小学生的三字经点读课：每字拼音、三字点读、背诵练习与儿童解读。"><title>三字经 · 小小朗读家</title><link rel="stylesheet" href="style.css?v=pdf-full1"></head>
+<body>
+<header class="top"><a href="#" class="brand"><span class="brand-icon">书</span>小小朗读家<span class="edition">经典启蒙</span></a><span class="top-note">每天读一点，慢慢记心间</span></header>
+<main>
+<section class="hero"><div class="intro"><div class="eyebrow">三字经 · PDF全文学习版</div><h1>三个字，<br>读懂一个小世界<span class="sun">✳</span></h1><p>从“人之初”到“宜勉力” · 48课<br>点一点，听一听，跟着读给自己听。</p><div class="hero-tags"><span>逐字拼音</span><span>三字点读</span><span>童趣解读</span></div></div><div class="book-art" aria-hidden="true"><div class="book-label">今天，也读得很棒</div><div class="book"><div class="book-left">yuē　shuǐ　huǒ<br><b>曰 水 火</b><i>水 · 火 · 木 · 金 · 土</i></div><div class="book-right"><span class="leaf">♧</span><b>万物有趣<br>读书有声</b><span class="tiny-star">✦</span></div></div><span class="art-caption">一字一句，都是新发现</span></div></section>
+<section class="workspace" aria-label="朗读课堂">
+<div class="mode-tabs" role="tablist" aria-label="学习模式"><button id="tab-read" role="tab" aria-selected="true" data-mode="read">① 跟着读</button><button id="tab-memory" role="tab" aria-selected="false" data-mode="memory">② 试着背</button><button id="tab-meaning" role="tab" aria-selected="false" data-mode="meaning">③ 懂意思</button></div>
+<p class="edition-note">本课采用所提供的PDF版本。每课对应原书一页；个别原文疑似错印，已在相应课文注明。</p><div class="settings"><label class="jump-label">选一课<select id="lesson-jump" aria-label="选择课文"><option>正在加载课文…</option></select></label><label><input id="pinyin" type="checkbox" checked>显示拼音</label><label>字号<select id="size"><option value="normal">大字</option><option value="large">更大</option></select></label><label>声音<select id="voice" aria-label="选择朗读声音"><option value="recorded">原版录音</option></select></label><button id="voice-preview" type="button">♫ 试听声音</button><label>语速<select id="rate"><option value="0.85">慢慢读</option><option value="1" selected>正常读</option></select></label><button id="reveal" hidden>显示全文</button><button id="hide-all" hidden>一键遮住</button></div>
+<p class="voice-note" id="voice-note" role="status">正在查找可用的中文声音…</p><div class="lesson-top"><div><h2 id="mode-title">小手点一点，耳朵听一听</h2><p id="mode-help">每组三个字都可以点读，听完再跟着读一遍。</p></div><div class="progress"><span id="progress-text">已听 0 / 378 句</span><div class="track"><div id="progress-bar"></div></div></div></div>
+<div id="error" role="alert" hidden></div><div id="lessons" aria-label="三字经课文"></div>
+<div class="end-note"><span>✦</span> 一点点读，一点点懂。今天的你又进步了！<small>课文按你提供的PDF逐页编排，共1134字。原文疑似错印已注明；拼音按字义标注本调，朗读可能出现自然变调。</small></div>
+</section>
+<footer>小小朗读家 · 把经典读给童年听 <a href="pdf-edition-text.txt" download>下载本版原文</a></footer>
+</main>
+<div class="player"><div class="player-inner"><div class="playing"><span class="speaker" aria-hidden="true">♫</span><div><strong id="now">准备好了吗？</strong><small id="status" role="status" aria-live="polite">点任意三个字，开始朗读</small></div></div><div class="player-actions"><button id="play-all" class="primary">▶ 全文朗读</button><button id="hide-all-bottom" hidden>一键遮住</button><button id="stop" aria-label="停止朗读">■ 停止</button></div></div></div>
+<script src="app.js?v=pdf-full2"></script></body></html>

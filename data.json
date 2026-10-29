@@ -1,0 +1,4359 @@
+[
+  {
+    "title": "人之初 · 学习让人成长",
+    "phrases": [
+      {
+        "text": "人之初",
+        "pinyin": [
+          "rén",
+          "zhī",
+          "chū"
+        ],
+        "audio": "audio/phrase-e6311fa59168.mp3",
+        "spoken": "人之初"
+      },
+      {
+        "text": "性本善",
+        "pinyin": [
+          "xìng",
+          "běn",
+          "shàn"
+        ],
+        "audio": "audio/phrase-d62483d8b7b3.mp3",
+        "spoken": "性本善"
+      },
+      {
+        "text": "性相近",
+        "pinyin": [
+          "xìng",
+          "xiāng",
+          "jìn"
+        ],
+        "audio": "audio/phrase-0d9e1bfe186f.mp3",
+        "spoken": "性相近"
+      },
+      {
+        "text": "习相远",
+        "pinyin": [
+          "xí",
+          "xiāng",
+          "yuǎn"
+        ],
+        "audio": "audio/phrase-aec9f2c0f0a8.mp3",
+        "spoken": "习相远"
+      },
+      {
+        "text": "苟不教",
+        "pinyin": [
+          "gǒu",
+          "bù",
+          "jiào"
+        ],
+        "audio": "audio/phrase-7120ff7b4fe3.mp3",
+        "spoken": "苟不教"
+      },
+      {
+        "text": "性乃迁",
+        "pinyin": [
+          "xìng",
+          "nǎi",
+          "qiān"
+        ],
+        "audio": "audio/phrase-0fb1d117a394.mp3",
+        "spoken": "性乃迁"
+      },
+      {
+        "text": "教之道",
+        "pinyin": [
+          "jiào",
+          "zhī",
+          "dào"
+        ],
+        "audio": "audio/phrase-bc6dd529f90b.mp3",
+        "spoken": "教之道"
+      },
+      {
+        "text": "贵以专",
+        "pinyin": [
+          "guì",
+          "yǐ",
+          "zhuān"
+        ],
+        "audio": "audio/phrase-b4fc6ab2702a.mp3",
+        "spoken": "贵以专"
+      }
+    ],
+    "meaning": "课文认为，人生下来本性善良，起初彼此相近，后来因为生活环境和学习习惯不同，才慢慢有了差别。成长需要教育和引导，教与学都要专心、坚持。",
+    "tip": "试着每天留一点时间读书，把好习惯慢慢养起来。",
+    "audio": "audio/explain-8fd66cae0713.mp3",
+    "pdfPage": 2,
+    "printedPage": 1,
+    "sourceText": "人之初，性本善。性相近，习相远。苟不教，性乃迁。教之道，贵以专。",
+    "speech": "课文认为，人生下来本性善良，起初彼此相近，后来因为生活环境和学习习惯不同，才慢慢有了差别。成长需要教育和引导，教与学都要专心、坚持。"
+  },
+  {
+    "title": "孟母与窦家 · 家庭的教导",
+    "phrases": [
+      {
+        "text": "昔孟母",
+        "pinyin": [
+          "xī",
+          "mèng",
+          "mǔ"
+        ],
+        "audio": "audio/phrase-d7f76ba05036.mp3",
+        "spoken": "昔孟母"
+      },
+      {
+        "text": "择邻处",
+        "pinyin": [
+          "zé",
+          "lín",
+          "chǔ"
+        ],
+        "audio": "audio/phrase-1069f66ddfbc.mp3",
+        "spoken": "择邻处"
+      },
+      {
+        "text": "子不学",
+        "pinyin": [
+          "zǐ",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-18fc543bf91a.mp3",
+        "spoken": "子不学"
+      },
+      {
+        "text": "断机杼",
+        "pinyin": [
+          "duàn",
+          "jī",
+          "zhù"
+        ],
+        "audio": "audio/phrase-63ba0816098d.mp3",
+        "spoken": "断机杼"
+      },
+      {
+        "text": "窦燕山",
+        "pinyin": [
+          "dòu",
+          "yān",
+          "shān"
+        ],
+        "audio": "audio/phrase-117ea0af988f.mp3",
+        "spoken": "窦燕山"
+      },
+      {
+        "text": "有义方",
+        "pinyin": [
+          "yǒu",
+          "yì",
+          "fāng"
+        ],
+        "audio": "audio/phrase-7f501d3ace9d.mp3",
+        "spoken": "有义方"
+      },
+      {
+        "text": "教五子",
+        "pinyin": [
+          "jiào",
+          "wǔ",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-54ae3e12212a.mp3",
+        "spoken": "教五子"
+      },
+      {
+        "text": "名俱扬",
+        "pinyin": [
+          "míng",
+          "jù",
+          "yáng"
+        ],
+        "audio": "audio/phrase-4201a8887ce1.mp3",
+        "spoken": "名俱扬"
+      }
+    ],
+    "meaning": "孟子的母亲重视邻里环境，搬家为孩子选择学习的好地方；孟子不用功时，她用剪断织布的方式提醒他，学习不能半途而废。窦燕山用恰当的方法教育五个儿子，孩子们都学有所成。",
+    "tip": "读故事时想一想：怎样的环境能让你更专心？",
+    "audio": "audio/explain-d25222f61f67.mp3",
+    "pdfPage": 3,
+    "printedPage": 2,
+    "sourceText": "昔孟母，择邻处。子不学，断机杼。窦燕山，有义方。教五子，名俱扬。",
+    "speech": "孟子的母亲重视邻里环境，搬家为孩子选择学习的好地方；孟子不用功时，她用剪断织布的方式提醒他，学习不能半途而废。窦燕山用恰当的方法教育五个儿子，孩子们都学有所成。"
+  },
+  {
+    "title": "养与教 · 大人孩子都有责任",
+    "phrases": [
+      {
+        "text": "养不教",
+        "pinyin": [
+          "yǎng",
+          "bù",
+          "jiào"
+        ],
+        "audio": "audio/phrase-29b39b261f45.mp3",
+        "spoken": "养不教"
+      },
+      {
+        "text": "父之过",
+        "pinyin": [
+          "fù",
+          "zhī",
+          "guò"
+        ],
+        "audio": "audio/phrase-fb81f00d4824.mp3",
+        "spoken": "父之过"
+      },
+      {
+        "text": "教不严",
+        "pinyin": [
+          "jiào",
+          "bù",
+          "yán"
+        ],
+        "audio": "audio/phrase-997315b66bbb.mp3",
+        "spoken": "教不严"
+      },
+      {
+        "text": "师之惰",
+        "pinyin": [
+          "shī",
+          "zhī",
+          "duò"
+        ],
+        "audio": "audio/phrase-46e2c52080e6.mp3",
+        "spoken": "师之惰"
+      },
+      {
+        "text": "子不学",
+        "pinyin": [
+          "zǐ",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-18fc543bf91a.mp3",
+        "spoken": "子不学"
+      },
+      {
+        "text": "非所宜",
+        "pinyin": [
+          "fēi",
+          "suǒ",
+          "yí"
+        ],
+        "audio": "audio/phrase-2b331b02934f.mp3",
+        "spoken": "非所宜"
+      },
+      {
+        "text": "幼不学",
+        "pinyin": [
+          "yòu",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-44a87a6a2373.mp3",
+        "spoken": "幼不学"
+      },
+      {
+        "text": "老何为",
+        "pinyin": [
+          "lǎo",
+          "hé",
+          "wéi"
+        ],
+        "audio": "audio/phrase-d4a87e2beba6.mp3",
+        "spoken": "老何为"
+      }
+    ],
+    "meaning": "父母养育孩子，也要认真教导；老师教学，也要尽责。孩子应当珍惜学习的机会。小时候只顾玩、不学本领，长大就可能感到后悔。",
+    "tip": "认真教导不是打骂，而是讲清道理，耐心帮助孩子。",
+    "audio": "audio/explain-171dfe2d0f34.mp3",
+    "pdfPage": 4,
+    "printedPage": 3,
+    "sourceText": "养不教，父之过。教不严，师之惰。子不学，非所宜。幼不学，老何为？",
+    "speech": "父母养育孩子，也要认真教导；老师教学，也要尽责。孩子应当珍惜学习的机会。小时候只顾玩、不学本领，长大就可能感到后悔。"
+  },
+  {
+    "title": "玉不琢 · 学本领，懂礼仪",
+    "phrases": [
+      {
+        "text": "玉不琢",
+        "pinyin": [
+          "yù",
+          "bù",
+          "zhuó"
+        ],
+        "audio": "audio/phrase-079625aebdf9.mp3",
+        "spoken": "玉不琢"
+      },
+      {
+        "text": "不成器",
+        "pinyin": [
+          "bù",
+          "chéng",
+          "qì"
+        ],
+        "audio": "audio/phrase-134293ab8354.mp3",
+        "spoken": "不成器"
+      },
+      {
+        "text": "人不学",
+        "pinyin": [
+          "rén",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-a323124e74a6.mp3",
+        "spoken": "人不学"
+      },
+      {
+        "text": "不知义",
+        "pinyin": [
+          "bù",
+          "zhī",
+          "yì"
+        ],
+        "audio": "audio/phrase-4358bb02a6c4.mp3",
+        "spoken": "不知义"
+      },
+      {
+        "text": "为人子",
+        "pinyin": [
+          "wéi",
+          "rén",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-26aace58ae5e.mp3",
+        "spoken": "为人子"
+      },
+      {
+        "text": "方少时",
+        "pinyin": [
+          "fāng",
+          "shào",
+          "shí"
+        ],
+        "audio": "audio/phrase-d4d2e700e38c.mp3",
+        "spoken": "方少时"
+      },
+      {
+        "text": "亲师友",
+        "pinyin": [
+          "qīn",
+          "shī",
+          "yǒu"
+        ],
+        "audio": "audio/phrase-ac3a04cec6c0.mp3",
+        "spoken": "亲师友"
+      },
+      {
+        "text": "习礼仪",
+        "pinyin": [
+          "xí",
+          "lǐ",
+          "yí"
+        ],
+        "audio": "audio/phrase-eb78ab2c5ccd.mp3",
+        "spoken": "习礼仪"
+      }
+    ],
+    "meaning": "玉石需要琢磨才能成为器物，人也要通过学习懂得道理。孩子年纪还小时，就可以亲近老师和朋友，学习与人相处的礼貌。",
+    "tip": "遇到老师主动问好，和同学友好相处，都是礼仪。",
+    "audio": "audio/explain-30eafd544491.mp3",
+    "pdfPage": 5,
+    "printedPage": 4,
+    "sourceText": "玉不琢，不成器。人不学，不知义。为人子，方少时。亲师友，习礼仪。",
+    "speech": "玉石需要琢磨才能成为器物，人也要通过学习懂得道理。孩子年纪还小时，就可以亲近老师和朋友，学习与人相处的礼貌。"
+  },
+  {
+    "title": "黄香与孔融 · 关心家人",
+    "phrases": [
+      {
+        "text": "香九龄",
+        "pinyin": [
+          "xiāng",
+          "jiǔ",
+          "líng"
+        ],
+        "audio": "audio/phrase-1f186e937f81.mp3",
+        "spoken": "香九龄"
+      },
+      {
+        "text": "能温席",
+        "pinyin": [
+          "néng",
+          "wēn",
+          "xí"
+        ],
+        "audio": "audio/phrase-681a4a21f602.mp3",
+        "spoken": "能温席"
+      },
+      {
+        "text": "孝于亲",
+        "pinyin": [
+          "xiào",
+          "yú",
+          "qīn"
+        ],
+        "audio": "audio/phrase-45c77ee90284.mp3",
+        "spoken": "孝于亲"
+      },
+      {
+        "text": "所当执",
+        "pinyin": [
+          "suǒ",
+          "dāng",
+          "zhí"
+        ],
+        "audio": "audio/phrase-a0b3107cc7eb.mp3",
+        "spoken": "所当执"
+      },
+      {
+        "text": "融四岁",
+        "pinyin": [
+          "róng",
+          "sì",
+          "suì"
+        ],
+        "audio": "audio/phrase-908912832893.mp3",
+        "spoken": "融四岁"
+      },
+      {
+        "text": "能让梨",
+        "pinyin": [
+          "néng",
+          "ràng",
+          "lí"
+        ],
+        "audio": "audio/phrase-f537ce7b003c.mp3",
+        "spoken": "能让梨"
+      },
+      {
+        "text": "弟于长",
+        "pinyin": [
+          "tì",
+          "yú",
+          "zhǎng"
+        ],
+        "audio": "audio/phrase-1fe29ea949e6.mp3",
+        "spoken": "替于掌"
+      },
+      {
+        "text": "宜先知",
+        "pinyin": [
+          "yí",
+          "xiān",
+          "zhī"
+        ],
+        "audio": "audio/phrase-b351004bacd3.mp3",
+        "spoken": "宜先知"
+      }
+    ],
+    "meaning": "故事说，黄香九岁就懂得给父亲温暖被席，孔融四岁就懂得让梨。课文借这些故事告诉孩子，要关心父母，尊重兄长和长辈。",
+    "tip": "这里的“弟”通“悌”，读 tì，表示尊敬兄长。谦让也要建立在自愿和互相尊重上。",
+    "audio": "audio/explain-774c6df65269.mp3",
+    "pdfPage": 6,
+    "printedPage": 5,
+    "sourceText": "香九龄，能温席。孝于亲，所当执。融四岁，能让梨。弟于长，宜先知。",
+    "speech": "故事说，黄香九岁就懂得给父亲温暖被席，孔融四岁就懂得让梨。课文借这些故事告诉孩子，要关心父母，尊重兄长和长辈。"
+  },
+  {
+    "title": "孝弟与见闻 · 从数字学起",
+    "phrases": [
+      {
+        "text": "首孝弟",
+        "pinyin": [
+          "shǒu",
+          "xiào",
+          "tì"
+        ],
+        "audio": "audio/phrase-08bdbb3af4b4.mp3",
+        "spoken": "首孝替"
+      },
+      {
+        "text": "次见闻",
+        "pinyin": [
+          "cì",
+          "jiàn",
+          "wén"
+        ],
+        "audio": "audio/phrase-e8a54aea8ffc.mp3",
+        "spoken": "次见闻"
+      },
+      {
+        "text": "知某数",
+        "pinyin": [
+          "zhī",
+          "mǒu",
+          "shù"
+        ],
+        "audio": "audio/phrase-c0599bb311e1.mp3",
+        "spoken": "知某数"
+      },
+      {
+        "text": "识某文",
+        "pinyin": [
+          "shí",
+          "mǒu",
+          "wén"
+        ],
+        "audio": "audio/phrase-46222d7ea76a.mp3",
+        "spoken": "识某文"
+      },
+      {
+        "text": "一而十",
+        "pinyin": [
+          "yī",
+          "ér",
+          "shí"
+        ],
+        "audio": "audio/phrase-296ede69ae70.mp3",
+        "spoken": "一而十"
+      },
+      {
+        "text": "十而百",
+        "pinyin": [
+          "shí",
+          "ér",
+          "bǎi"
+        ],
+        "audio": "audio/phrase-b3b7c08cabf6.mp3",
+        "spoken": "十而百"
+      },
+      {
+        "text": "百而千",
+        "pinyin": [
+          "bǎi",
+          "ér",
+          "qiān"
+        ],
+        "audio": "audio/phrase-cb12b041f9c9.mp3",
+        "spoken": "百而千"
+      },
+      {
+        "text": "千而万",
+        "pinyin": [
+          "qiān",
+          "ér",
+          "wàn"
+        ],
+        "audio": "audio/phrase-91a070536ab4.mp3",
+        "spoken": "千而万"
+      }
+    ],
+    "meaning": "学习先从关爱家人、尊敬兄长做起，再扩大见闻，认识数字和文字。从一数到十，从十到百，再到千和万，可以一点一点认识更大的数。",
+    "tip": "“首孝弟”的“弟”通“悌”，读 tì。试着数一数十、百、千、万各有几个零。",
+    "audio": "audio/explain-0dadacc3a9e2.mp3",
+    "pdfPage": 7,
+    "printedPage": 6,
+    "sourceText": "首孝弟，次见闻。知某数，识某文。一而十，十而百。百而千，千而万。",
+    "speech": "学习先从关爱家人、尊敬兄长做起，再扩大见闻，认识数字和文字。从一数到十，从十到百，再到千和万，可以一点一点认识更大的数。"
+  },
+  {
+    "title": "三才三光 · 自然与人伦",
+    "phrases": [
+      {
+        "text": "三才者",
+        "pinyin": [
+          "sān",
+          "cái",
+          "zhě"
+        ],
+        "audio": "audio/phrase-88da3c928b10.mp3",
+        "spoken": "三才者"
+      },
+      {
+        "text": "天地人",
+        "pinyin": [
+          "tiān",
+          "dì",
+          "rén"
+        ],
+        "audio": "audio/phrase-8b51d296c4f3.mp3",
+        "spoken": "天地人"
+      },
+      {
+        "text": "三光者",
+        "pinyin": [
+          "sān",
+          "guāng",
+          "zhě"
+        ],
+        "audio": "audio/phrase-f80992945ec3.mp3",
+        "spoken": "三光者"
+      },
+      {
+        "text": "日月星",
+        "pinyin": [
+          "rì",
+          "yuè",
+          "xīng"
+        ],
+        "audio": "audio/phrase-a3e953aff84d.mp3",
+        "spoken": "日月星"
+      },
+      {
+        "text": "三纲者",
+        "pinyin": [
+          "sān",
+          "gāng",
+          "zhě"
+        ],
+        "audio": "audio/phrase-70b71dc13431.mp3",
+        "spoken": "三纲者"
+      },
+      {
+        "text": "君臣义",
+        "pinyin": [
+          "jūn",
+          "chén",
+          "yì"
+        ],
+        "audio": "audio/phrase-da2d9027a92b.mp3",
+        "spoken": "君臣义"
+      },
+      {
+        "text": "父子亲",
+        "pinyin": [
+          "fù",
+          "zǐ",
+          "qīn"
+        ],
+        "audio": "audio/phrase-6bb0c7ea1f9c.mp3",
+        "spoken": "父子亲"
+      },
+      {
+        "text": "夫妇顺",
+        "pinyin": [
+          "fū",
+          "fù",
+          "shùn"
+        ],
+        "audio": "audio/phrase-2083e18a50c3.mp3",
+        "spoken": "夫妇顺"
+      }
+    ],
+    "meaning": "古人把天、地、人称为三才，把太阳、月亮和星星称为三光。三纲是古代对君臣、父子、夫妻关系的看法。这些古代观念，需要结合当时的社会来理解。",
+    "tip": "今天家人之间应平等、互相尊重；长辈也要爱护孩子。",
+    "audio": "audio/explain-01bb1403582b.mp3",
+    "pdfPage": 8,
+    "printedPage": 7,
+    "sourceText": "三才者，天地人。三光者，日月星。三纲者，君臣义。父子亲，夫妇顺。",
+    "speech": "古人把天、地、人称为三才，把太阳、月亮和星星称为三光。三纲是古代对君臣、父子、夫妻关系的看法。这些古代观念，需要结合当时的社会来理解。"
+  },
+  {
+    "title": "四时四方 · 季节与方向",
+    "phrases": [
+      {
+        "text": "曰春夏",
+        "pinyin": [
+          "yuē",
+          "chūn",
+          "xià"
+        ],
+        "audio": "audio/phrase-d515ac4d50a5.mp3",
+        "spoken": "曰春夏"
+      },
+      {
+        "text": "曰秋冬",
+        "pinyin": [
+          "yuē",
+          "qiū",
+          "dōng"
+        ],
+        "audio": "audio/phrase-918d12ad6f69.mp3",
+        "spoken": "曰秋冬"
+      },
+      {
+        "text": "此四时",
+        "pinyin": [
+          "cǐ",
+          "sì",
+          "shí"
+        ],
+        "audio": "audio/phrase-fb6f1ee083e9.mp3",
+        "spoken": "此四时"
+      },
+      {
+        "text": "运不穷",
+        "pinyin": [
+          "yùn",
+          "bù",
+          "qióng"
+        ],
+        "audio": "audio/phrase-49a50256ba76.mp3",
+        "spoken": "运不穷"
+      },
+      {
+        "text": "曰南北",
+        "pinyin": [
+          "yuē",
+          "nán",
+          "běi"
+        ],
+        "audio": "audio/phrase-63d3468cfd5a.mp3",
+        "spoken": "曰南北"
+      },
+      {
+        "text": "曰西东",
+        "pinyin": [
+          "yuē",
+          "xī",
+          "dōng"
+        ],
+        "audio": "audio/phrase-af6fc929df7b.mp3",
+        "spoken": "曰西东"
+      },
+      {
+        "text": "此四方",
+        "pinyin": [
+          "cǐ",
+          "sì",
+          "fāng"
+        ],
+        "audio": "audio/phrase-e1ead3295296.mp3",
+        "spoken": "此四方"
+      },
+      {
+        "text": "应乎中",
+        "pinyin": [
+          "yìng",
+          "hū",
+          "zhōng"
+        ],
+        "audio": "audio/phrase-dba47cb632a1.mp3",
+        "spoken": "应乎中"
+      }
+    ],
+    "meaning": "春、夏、秋、冬四个季节轮流变化。南、北、西、东是四个基本方向，古人用中心来帮助说明四方的位置。",
+    "tip": "想一想：你最喜欢哪个季节？太阳大致从哪边升起？",
+    "audio": "audio/explain-265a74c1fa12.mp3",
+    "pdfPage": 9,
+    "printedPage": 8,
+    "sourceText": "曰春夏，曰秋冬。此四时，运不穷。曰南北，曰西东。此四方，应乎中。",
+    "speech": "春、夏、秋、冬四个季节轮流变化。南、北、西、东是四个基本方向，古人用中心来帮助说明四方的位置。"
+  },
+  {
+    "title": "五行五常 · 自然与品德",
+    "phrases": [
+      {
+        "text": "曰水火",
+        "pinyin": [
+          "yuē",
+          "shuǐ",
+          "huǒ"
+        ],
+        "audio": "audio/0-0.mp3",
+        "spoken": "曰水火"
+      },
+      {
+        "text": "木金土",
+        "pinyin": [
+          "mù",
+          "jīn",
+          "tǔ"
+        ],
+        "audio": "audio/0-1.mp3",
+        "spoken": "木金土"
+      },
+      {
+        "text": "此五行",
+        "pinyin": [
+          "cǐ",
+          "wǔ",
+          "xíng"
+        ],
+        "audio": "audio/phrase-ce000512a620.mp3",
+        "spoken": "此五型"
+      },
+      {
+        "text": "本乎数",
+        "pinyin": [
+          "běn",
+          "hū",
+          "shù"
+        ],
+        "audio": "audio/0-3.mp3",
+        "spoken": "本乎树"
+      },
+      {
+        "text": "曰仁义",
+        "pinyin": [
+          "yuē",
+          "rén",
+          "yì"
+        ],
+        "audio": "audio/1-0.mp3",
+        "spoken": "曰仁义"
+      },
+      {
+        "text": "礼智信",
+        "pinyin": [
+          "lǐ",
+          "zhì",
+          "xìn"
+        ],
+        "audio": "audio/1-1.mp3",
+        "spoken": "礼智信"
+      },
+      {
+        "text": "此五常",
+        "pinyin": [
+          "cǐ",
+          "wǔ",
+          "cháng"
+        ],
+        "audio": "audio/1-2.mp3",
+        "spoken": "此五常"
+      },
+      {
+        "text": "不容紊",
+        "pinyin": [
+          "bù",
+          "róng",
+          "wěn"
+        ],
+        "audio": "audio/1-3.mp3",
+        "spoken": "不容紊"
+      }
+    ],
+    "meaning": "古人用水、火、木、金、土这五行认识自然，并把它们与数字相联系。仁、义、礼、智、信叫五常，分别强调关爱、正当、礼貌、智慧和诚信。",
+    "tip": "五行是古人理解世界的方法；答应别人的事努力做到，就是守信。",
+    "audio": "audio/explain-80a85022e236.mp3",
+    "pdfPage": 10,
+    "printedPage": 9,
+    "sourceText": "曰水火，木金土。此五行，本乎数。曰仁义，礼智信。此五常，不容紊。",
+    "speech": "古人用水、火、木、金、土这五行认识自然，并把它们与数字相联系。仁、义、礼、智、信叫五常，分别强调关爱、正当、礼貌、智慧和诚信。"
+  },
+  {
+    "title": "六谷六畜 · 粮食与动物",
+    "phrases": [
+      {
+        "text": "稻粱菽",
+        "pinyin": [
+          "dào",
+          "liáng",
+          "shū"
+        ],
+        "audio": "audio/2-0.mp3",
+        "spoken": "稻粱菽"
+      },
+      {
+        "text": "麦黍稷",
+        "pinyin": [
+          "mài",
+          "shǔ",
+          "jì"
+        ],
+        "audio": "audio/2-1.mp3",
+        "spoken": "麦黍稷"
+      },
+      {
+        "text": "此六谷",
+        "pinyin": [
+          "cǐ",
+          "liù",
+          "gǔ"
+        ],
+        "audio": "audio/2-2.mp3",
+        "spoken": "此六谷"
+      },
+      {
+        "text": "人所食",
+        "pinyin": [
+          "rén",
+          "suǒ",
+          "shí"
+        ],
+        "audio": "audio/2-3.mp3",
+        "spoken": "人所食"
+      },
+      {
+        "text": "马牛羊",
+        "pinyin": [
+          "mǎ",
+          "niú",
+          "yáng"
+        ],
+        "audio": "audio/3-0.mp3",
+        "spoken": "马牛羊"
+      },
+      {
+        "text": "鸡犬豕",
+        "pinyin": [
+          "jī",
+          "quǎn",
+          "shǐ"
+        ],
+        "audio": "audio/3-1.mp3",
+        "spoken": "鸡犬豕"
+      },
+      {
+        "text": "此六畜",
+        "pinyin": [
+          "cǐ",
+          "liù",
+          "chù"
+        ],
+        "audio": "audio/3-2.mp3",
+        "spoken": "此六处"
+      },
+      {
+        "text": "人所饲",
+        "pinyin": [
+          "rén",
+          "suǒ",
+          "sì"
+        ],
+        "audio": "audio/3-3.mp3",
+        "spoken": "人所饲"
+      }
+    ],
+    "meaning": "稻、粱、菽、麦、黍、稷是古人所说的六谷，是供人食用的粮食。马、牛、羊、鸡、狗、猪是六畜，是古人常饲养的动物。菽指豆类，犬是狗，豕是猪。",
+    "tip": "“六畜”的“畜”读 chù。吃饭时爱惜粮食，也要善待动物。",
+    "audio": "audio/explain-c8595ae3bae7.mp3",
+    "pdfPage": 11,
+    "printedPage": 10,
+    "sourceText": "稻粱菽，麦黍稷。此六谷，人所食。马牛羊，鸡犬豕。此六畜，人所饲。",
+    "speech": "稻、粱、菽、麦、黍、稷是古人所说的六谷，是供人食用的粮食。马、牛、羊、鸡、狗、猪是六畜，是古人常饲养的动物。菽指豆类，犬是狗，豕是猪。"
+  },
+  {
+    "title": "七情八音 · 感受与音乐",
+    "phrases": [
+      {
+        "text": "曰喜怒",
+        "pinyin": [
+          "yuē",
+          "xǐ",
+          "nù"
+        ],
+        "audio": "audio/4-0.mp3",
+        "spoken": "曰喜怒"
+      },
+      {
+        "text": "曰哀惧",
+        "pinyin": [
+          "yuē",
+          "āi",
+          "jù"
+        ],
+        "audio": "audio/4-1.mp3",
+        "spoken": "曰哀惧"
+      },
+      {
+        "text": "爱恶欲",
+        "pinyin": [
+          "ài",
+          "wù",
+          "yù"
+        ],
+        "audio": "audio/4-2.mp3",
+        "spoken": "爱务欲"
+      },
+      {
+        "text": "七情具",
+        "pinyin": [
+          "qī",
+          "qíng",
+          "jù"
+        ],
+        "audio": "audio/phrase-5593c45a461c.mp3",
+        "spoken": "七情具"
+      },
+      {
+        "text": "匏土革",
+        "pinyin": [
+          "páo",
+          "tǔ",
+          "gé"
+        ],
+        "audio": "audio/5-0.mp3",
+        "spoken": "匏土革"
+      },
+      {
+        "text": "木石金",
+        "pinyin": [
+          "mù",
+          "shí",
+          "jīn"
+        ],
+        "audio": "audio/5-1.mp3",
+        "spoken": "木石金"
+      },
+      {
+        "text": "丝与竹",
+        "pinyin": [
+          "sī",
+          "yǔ",
+          "zhú"
+        ],
+        "audio": "audio/5-2.mp3",
+        "spoken": "丝与竹"
+      },
+      {
+        "text": "乃八音",
+        "pinyin": [
+          "nǎi",
+          "bā",
+          "yīn"
+        ],
+        "audio": "audio/5-3.mp3",
+        "spoken": "乃八音"
+      }
+    ],
+    "meaning": "喜、怒、哀、惧、爱、恶、欲，是古人说的七种情感。“恶”在这里是厌恶。匏、土、革、木、石、金、丝、竹，是古人按制作材料给乐器分的八类。",
+    "tip": "原文用“七情具”，“具”有具备的意思。“八音”是八类乐器，不是八个音符。",
+    "audio": "audio/explain-278db98ce875.mp3",
+    "pdfPage": 12,
+    "printedPage": 11,
+    "sourceText": "曰喜怒，曰哀惧。爱恶欲，七情具。匏土革，木石金。丝与竹，乃八音。",
+    "speech": "喜、怒、哀、惧、爱、恶、欲，是古人说的七种情感。“恶”在这里是厌恶。匏、土、革、木、石、金、丝、竹，是古人按制作材料给乐器分的八类。"
+  },
+  {
+    "title": "九族 · 看懂家人的辈分",
+    "phrases": [
+      {
+        "text": "高曾祖",
+        "pinyin": [
+          "gāo",
+          "zēng",
+          "zǔ"
+        ],
+        "audio": "audio/6-0.mp3",
+        "spoken": "高增祖"
+      },
+      {
+        "text": "父而身",
+        "pinyin": [
+          "fù",
+          "ér",
+          "shēn"
+        ],
+        "audio": "audio/6-1.mp3",
+        "spoken": "父而身"
+      },
+      {
+        "text": "身而子",
+        "pinyin": [
+          "shēn",
+          "ér",
+          "zǐ"
+        ],
+        "audio": "audio/6-2.mp3",
+        "spoken": "身而子"
+      },
+      {
+        "text": "子而孙",
+        "pinyin": [
+          "zǐ",
+          "ér",
+          "sūn"
+        ],
+        "audio": "audio/6-3.mp3",
+        "spoken": "子而孙"
+      },
+      {
+        "text": "自子孙",
+        "pinyin": [
+          "zì",
+          "zǐ",
+          "sūn"
+        ],
+        "audio": "audio/7-0.mp3",
+        "spoken": "自子孙"
+      },
+      {
+        "text": "至玄曾",
+        "pinyin": [
+          "zhì",
+          "xuán",
+          "zēng"
+        ],
+        "audio": "audio/7-1.mp3",
+        "spoken": "至玄增"
+      },
+      {
+        "text": "乃九族",
+        "pinyin": [
+          "nǎi",
+          "jiǔ",
+          "zú"
+        ],
+        "audio": "audio/7-2.mp3",
+        "spoken": "乃九族"
+      },
+      {
+        "text": "人之伦",
+        "pinyin": [
+          "rén",
+          "zhī",
+          "lún"
+        ],
+        "audio": "audio/7-3.mp3",
+        "spoken": "人之伦"
+      }
+    ],
+    "meaning": "从自己往上数，有父亲、祖父、曾祖父和高祖父；往下数，有儿子、孙子、曾孙和玄孙。课文用这九代关系介绍九族与辈分。“身”在这里指自己。",
+    "tip": "从高祖到玄孙，连同自己共九代。这一段用父系称谓介绍辈分。",
+    "audio": "audio/explain-9e7bc2fb2a23.mp3",
+    "pdfPage": 13,
+    "printedPage": 12,
+    "sourceText": "高曾祖，父而身。身而子，子而孙。自子孙，至玄曾。乃九族，人之伦。",
+    "speech": "从自己往上数，有父亲、祖父、曾祖父和高祖父；往下数，有儿子、孙子、曾孙和玄孙。课文用这九代关系介绍九族与辈分。“身”在这里指自己。"
+  },
+  {
+    "title": "十义 · 互相关爱与尊重",
+    "phrases": [
+      {
+        "text": "父子恩",
+        "pinyin": [
+          "fù",
+          "zǐ",
+          "ēn"
+        ],
+        "audio": "audio/8-0.mp3",
+        "spoken": "父子恩"
+      },
+      {
+        "text": "夫妇从",
+        "pinyin": [
+          "fū",
+          "fù",
+          "cóng"
+        ],
+        "audio": "audio/8-1.mp3",
+        "spoken": "夫妇从"
+      },
+      {
+        "text": "兄则友",
+        "pinyin": [
+          "xiōng",
+          "zé",
+          "yǒu"
+        ],
+        "audio": "audio/8-2.mp3",
+        "spoken": "兄则友"
+      },
+      {
+        "text": "弟则恭",
+        "pinyin": [
+          "dì",
+          "zé",
+          "gōng"
+        ],
+        "audio": "audio/8-3.mp3",
+        "spoken": "弟则恭"
+      },
+      {
+        "text": "长幼序",
+        "pinyin": [
+          "zhǎng",
+          "yòu",
+          "xù"
+        ],
+        "audio": "audio/9-0.mp3",
+        "spoken": "掌幼序"
+      },
+      {
+        "text": "友与朋",
+        "pinyin": [
+          "yǒu",
+          "yǔ",
+          "péng"
+        ],
+        "audio": "audio/9-1.mp3",
+        "spoken": "友与朋"
+      },
+      {
+        "text": "君则敬",
+        "pinyin": [
+          "jūn",
+          "zé",
+          "jìng"
+        ],
+        "audio": "audio/9-2.mp3",
+        "spoken": "君则敬"
+      },
+      {
+        "text": "臣则忠",
+        "pinyin": [
+          "chén",
+          "zé",
+          "zhōng"
+        ],
+        "audio": "audio/9-3.mp3",
+        "spoken": "臣则忠"
+      }
+    ],
+    "meaning": "课文介绍古人对家人、朋友及君臣相处的期待：家人有亲情，兄弟互相爱护、尊敬，朋友真诚相待，担任不同角色的人各尽责任。",
+    "tip": "今天学习其中的关爱、诚信和负责，也要知道人与人应平等、互相尊重。",
+    "audio": "audio/explain-73ae16c9ce6d.mp3",
+    "pdfPage": 14,
+    "printedPage": 13,
+    "sourceText": "父子恩，夫妇从。兄则友，弟则恭。长幼序，友与朋。君则敬，臣则忠。",
+    "speech": "课文介绍古人对家人、朋友及君臣相处的期待：家人有亲情，兄弟互相爱护、尊敬，朋友真诚相待，担任不同角色的人各尽责任。"
+  },
+  {
+    "title": "训蒙 · 字义和停顿要明白",
+    "phrases": [
+      {
+        "text": "此十义",
+        "pinyin": [
+          "cǐ",
+          "shí",
+          "yì"
+        ],
+        "audio": "audio/10-0.mp3",
+        "spoken": "此十义"
+      },
+      {
+        "text": "人所同",
+        "pinyin": [
+          "rén",
+          "suǒ",
+          "tóng"
+        ],
+        "audio": "audio/10-1.mp3",
+        "spoken": "人所同"
+      },
+      {
+        "text": "当师叙",
+        "pinyin": [
+          "dāng",
+          "shī",
+          "xù"
+        ],
+        "audio": "audio/phrase-b74052c26747.mp3",
+        "spoken": "当师叙"
+      },
+      {
+        "text": "勿违背",
+        "pinyin": [
+          "wù",
+          "wéi",
+          "bèi"
+        ],
+        "audio": "audio/phrase-d9989b30d994.mp3",
+        "spoken": "勿违背"
+      },
+      {
+        "text": "凡训蒙",
+        "pinyin": [
+          "fán",
+          "xùn",
+          "méng"
+        ],
+        "audio": "audio/11-0.mp3",
+        "spoken": "凡训蒙"
+      },
+      {
+        "text": "须讲究",
+        "pinyin": [
+          "xū",
+          "jiǎng",
+          "jiū"
+        ],
+        "audio": "audio/11-1.mp3",
+        "spoken": "须讲究"
+      },
+      {
+        "text": "详训诂",
+        "pinyin": [
+          "xiáng",
+          "xùn",
+          "gǔ"
+        ],
+        "audio": "audio/11-2.mp3",
+        "spoken": "详训诂"
+      },
+      {
+        "text": "明句读",
+        "pinyin": [
+          "míng",
+          "jù",
+          "dòu"
+        ],
+        "audio": "audio/11-3.mp3",
+        "spoken": "明句豆"
+      }
+    ],
+    "meaning": "古人把前面的相处规范合称十义。这一页接着讲启蒙教育：讲解要认真，把字词意思说清楚，也要教孩子在哪里断句、停顿。训诂指解释字词，句读指断句和停顿。",
+    "tip": "原PDF印作“当师叙”，疑为“当顺叙”的排印错误，此处保留原字。可请老师核对后再背；“句读”读 jù dòu。",
+    "audio": "audio/explain-8c11c0fcb68a.mp3",
+    "pdfPage": 15,
+    "printedPage": 14,
+    "sourceText": "此十义，人所同。当师叙，勿违背。凡训蒙，须讲究。详训诂，明句读。",
+    "speech": "古人把前面的相处规范合称十义。这一页接着讲启蒙教育：讲解要认真，把字词意思说清楚，也要教孩子在哪里断句、停顿。训诂指解释字词，句豆指断句和停顿。",
+    "sourceNote": "原PDF此处印作“当师叙”，疑为“当顺叙”的排印错误。课文保留原字，请结合解读与老师核对。"
+  },
+  {
+    "title": "为学与论语 · 从基础开始",
+    "phrases": [
+      {
+        "text": "为学者",
+        "pinyin": [
+          "wéi",
+          "xué",
+          "zhě"
+        ],
+        "audio": "audio/12-0.mp3",
+        "spoken": "为学者"
+      },
+      {
+        "text": "必有初",
+        "pinyin": [
+          "bì",
+          "yǒu",
+          "chū"
+        ],
+        "audio": "audio/12-1.mp3",
+        "spoken": "必有初"
+      },
+      {
+        "text": "小学终",
+        "pinyin": [
+          "xiǎo",
+          "xué",
+          "zhōng"
+        ],
+        "audio": "audio/12-2.mp3",
+        "spoken": "小学终"
+      },
+      {
+        "text": "至四书",
+        "pinyin": [
+          "zhì",
+          "sì",
+          "shū"
+        ],
+        "audio": "audio/12-3.mp3",
+        "spoken": "至四书"
+      },
+      {
+        "text": "论语者",
+        "pinyin": [
+          "lún",
+          "yǔ",
+          "zhě"
+        ],
+        "audio": "audio/13-0.mp3",
+        "spoken": "伦语者"
+      },
+      {
+        "text": "二十篇",
+        "pinyin": [
+          "èr",
+          "shí",
+          "piān"
+        ],
+        "audio": "audio/13-1.mp3",
+        "spoken": "二十篇"
+      },
+      {
+        "text": "群弟子",
+        "pinyin": [
+          "qún",
+          "dì",
+          "zǐ"
+        ],
+        "audio": "audio/13-2.mp3",
+        "spoken": "群弟子"
+      },
+      {
+        "text": "记善言",
+        "pinyin": [
+          "jì",
+          "shàn",
+          "yán"
+        ],
+        "audio": "audio/13-3.mp3",
+        "spoken": "记善言"
+      }
+    ],
+    "meaning": "学习要循序渐进，先学识字、礼仪等基础，再学四书。四书是《大学》《中庸》《论语》和《孟子》。《论语》有二十篇，主要记录孔子和弟子的言论，由弟子及再传弟子整理。",
+    "tip": "这里“小学”指古代基础教育，与今天的小学不完全一样。“论语”的“论”读 lún。",
+    "audio": "audio/explain-57cf32e1e59e.mp3",
+    "pdfPage": 16,
+    "printedPage": 15,
+    "sourceText": "为学者，必有初。小学终，至四书。论语者，二十篇。群弟子，记善言。",
+    "speech": "学习要循序渐进，先学识字、礼仪等基础，再学四书。四书是《大学》《中庸》《伦语》和《孟子》。《伦语》有二十篇，主要记录孔子和弟子的言论，由弟子及再传弟子整理。"
+  },
+  {
+    "title": "孟子与中庸 · 仁义和分寸",
+    "phrases": [
+      {
+        "text": "孟子者",
+        "pinyin": [
+          "mèng",
+          "zǐ",
+          "zhě"
+        ],
+        "audio": "audio/14-0.mp3",
+        "spoken": "孟子者"
+      },
+      {
+        "text": "七篇止",
+        "pinyin": [
+          "qī",
+          "piān",
+          "zhǐ"
+        ],
+        "audio": "audio/14-1.mp3",
+        "spoken": "七篇止"
+      },
+      {
+        "text": "讲道德",
+        "pinyin": [
+          "jiǎng",
+          "dào",
+          "dé"
+        ],
+        "audio": "audio/14-2.mp3",
+        "spoken": "讲道德"
+      },
+      {
+        "text": "说仁义",
+        "pinyin": [
+          "shuō",
+          "rén",
+          "yì"
+        ],
+        "audio": "audio/14-3.mp3",
+        "spoken": "说仁义"
+      },
+      {
+        "text": "作中庸",
+        "pinyin": [
+          "zuò",
+          "zhōng",
+          "yōng"
+        ],
+        "audio": "audio/15-0.mp3",
+        "spoken": "作中庸"
+      },
+      {
+        "text": "子思笔",
+        "pinyin": [
+          "zǐ",
+          "sī",
+          "bǐ"
+        ],
+        "audio": "audio/phrase-cf89e842be63.mp3",
+        "spoken": "子思笔"
+      },
+      {
+        "text": "中不偏",
+        "pinyin": [
+          "zhōng",
+          "bù",
+          "piān"
+        ],
+        "audio": "audio/15-2.mp3",
+        "spoken": "中不偏"
+      },
+      {
+        "text": "庸不易",
+        "pinyin": [
+          "yōng",
+          "bù",
+          "yì"
+        ],
+        "audio": "audio/15-3.mp3",
+        "spoken": "庸不易"
+      }
+    ],
+    "meaning": "《孟子》有七篇，讲道德、仁义等道理。仁是关心别人，义是做正当的事。传统说法认为《中庸》由子思写成。中不偏，强调不走极端、做事恰当；庸不易，强调恒常的道理。",
+    "tip": "子思就是孔伋，是孔子的孙子。做事有分寸，不等于所有事情都各让一半，还要分清是非。",
+    "audio": "audio/explain-d75b6f18bc5a.mp3",
+    "pdfPage": 17,
+    "printedPage": 16,
+    "sourceText": "孟子者，七篇止。讲道德，说仁义。作中庸，子思笔。中不偏，庸不易。",
+    "speech": "《孟子》有七篇，讲道德、仁义等道理。仁是关心别人，义是做正当的事。传统说法认为《中庸》由子思写成。中不偏，强调不走极端、做事恰当；庸不易，强调恒常的道理。"
+  },
+  {
+    "title": "大学与六经 · 一步一步学",
+    "phrases": [
+      {
+        "text": "作大学",
+        "pinyin": [
+          "zuò",
+          "dà",
+          "xué"
+        ],
+        "audio": "audio/phrase-8d2f0c60d436.mp3",
+        "spoken": "作大学"
+      },
+      {
+        "text": "乃曾子",
+        "pinyin": [
+          "nǎi",
+          "zēng",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-7a54e440bc45.mp3",
+        "spoken": "乃增子"
+      },
+      {
+        "text": "自修齐",
+        "pinyin": [
+          "zì",
+          "xiū",
+          "qí"
+        ],
+        "audio": "audio/phrase-c6716612ba1f.mp3",
+        "spoken": "自修齐"
+      },
+      {
+        "text": "至平治",
+        "pinyin": [
+          "zhì",
+          "píng",
+          "zhì"
+        ],
+        "audio": "audio/phrase-fc10607f5669.mp3",
+        "spoken": "至平治"
+      },
+      {
+        "text": "孝经通",
+        "pinyin": [
+          "xiào",
+          "jīng",
+          "tōng"
+        ],
+        "audio": "audio/phrase-42f1a65091d1.mp3",
+        "spoken": "孝经通"
+      },
+      {
+        "text": "四书熟",
+        "pinyin": [
+          "sì",
+          "shū",
+          "shú"
+        ],
+        "audio": "audio/phrase-6d085222c976.mp3",
+        "spoken": "四书熟"
+      },
+      {
+        "text": "如六经",
+        "pinyin": [
+          "rú",
+          "liù",
+          "jīng"
+        ],
+        "audio": "audio/phrase-46c2e95db776.mp3",
+        "spoken": "如六经"
+      },
+      {
+        "text": "始可读",
+        "pinyin": [
+          "shǐ",
+          "kě",
+          "dú"
+        ],
+        "audio": "audio/phrase-25214a31bc51.mp3",
+        "spoken": "始可读"
+      }
+    ],
+    "meaning": "传统说法把《大学》与曾子联系起来。修齐平治概括修养自身、经营家庭、治理国家、使天下安定。课文接着建议，读通《孝经》、熟悉四书后，再学习六经。",
+    "tip": "先把眼前的小事认真做好，再学习承担更大的责任。",
+    "audio": "audio/explain-412fb056b081.mp3",
+    "pdfPage": 18,
+    "printedPage": 17,
+    "sourceText": "作大学，乃曾子。自修齐，至平治。孝经通，四书熟。如六经，始可读。",
+    "speech": "传统说法把《大学》与增子联系起来。修齐平治概括修养自身、经营家庭、治理国家、使天下安定。课文接着建议，读通《孝经》、熟悉四书后，再学习六经。"
+  },
+  {
+    "title": "六经与三易 · 认识古代经典",
+    "phrases": [
+      {
+        "text": "诗书易",
+        "pinyin": [
+          "shī",
+          "shū",
+          "yì"
+        ],
+        "audio": "audio/phrase-6a23e99fab43.mp3",
+        "spoken": "诗书易"
+      },
+      {
+        "text": "礼春秋",
+        "pinyin": [
+          "lǐ",
+          "chūn",
+          "qiū"
+        ],
+        "audio": "audio/phrase-1f80f8c013c5.mp3",
+        "spoken": "礼春秋"
+      },
+      {
+        "text": "号六经",
+        "pinyin": [
+          "hào",
+          "liù",
+          "jīng"
+        ],
+        "audio": "audio/phrase-db115a861f34.mp3",
+        "spoken": "浩六经"
+      },
+      {
+        "text": "当讲求",
+        "pinyin": [
+          "dāng",
+          "jiǎng",
+          "qiú"
+        ],
+        "audio": "audio/phrase-c3c48414bdcc.mp3",
+        "spoken": "当讲求"
+      },
+      {
+        "text": "有连山",
+        "pinyin": [
+          "yǒu",
+          "lián",
+          "shān"
+        ],
+        "audio": "audio/phrase-6670972360e4.mp3",
+        "spoken": "有连山"
+      },
+      {
+        "text": "有归藏",
+        "pinyin": [
+          "yǒu",
+          "guī",
+          "cáng"
+        ],
+        "audio": "audio/phrase-702e6695b4d6.mp3",
+        "spoken": "有归藏"
+      },
+      {
+        "text": "有周易",
+        "pinyin": [
+          "yǒu",
+          "zhōu",
+          "yì"
+        ],
+        "audio": "audio/phrase-9cfeceffb65d.mp3",
+        "spoken": "有周易"
+      },
+      {
+        "text": "三易详",
+        "pinyin": [
+          "sān",
+          "yì",
+          "xiáng"
+        ],
+        "audio": "audio/phrase-93539ab1189f.mp3",
+        "spoken": "三易详"
+      }
+    ],
+    "meaning": "诗、书、易、礼、春秋是课文列出的经典名目，传统说六经还包括已经失传的《乐经》。古人把《连山》《归藏》《周易》合称三易；今天完整流传下来的主要是《周易》。",
+    "tip": "这里的“诗书易”是书名的简称，不是普通的诗、书本和容易。",
+    "audio": "audio/explain-9c0a674f6d05.mp3",
+    "pdfPage": 19,
+    "printedPage": 18,
+    "sourceText": "诗书易，礼春秋。号六经，当讲求。有连山，有归藏。有周易，三易详。",
+    "speech": "诗、书、易、礼、春秋是课文列出的经典名目，传统说六经还包括已经失传的《乐经》。古人把《连山》《归藏》《周易》合称三易；今天完整流传下来的主要是《周易》。"
+  },
+  {
+    "title": "尚书与周礼 · 记录和制度",
+    "phrases": [
+      {
+        "text": "有典谟",
+        "pinyin": [
+          "yǒu",
+          "diǎn",
+          "mó"
+        ],
+        "audio": "audio/phrase-3ba8a3179889.mp3",
+        "spoken": "有典谟"
+      },
+      {
+        "text": "有训诰",
+        "pinyin": [
+          "yǒu",
+          "xùn",
+          "gào"
+        ],
+        "audio": "audio/phrase-cf289461c752.mp3",
+        "spoken": "有训诰"
+      },
+      {
+        "text": "有誓命",
+        "pinyin": [
+          "yǒu",
+          "shì",
+          "mìng"
+        ],
+        "audio": "audio/phrase-516e1d5db484.mp3",
+        "spoken": "有誓命"
+      },
+      {
+        "text": "书之奥",
+        "pinyin": [
+          "shū",
+          "zhī",
+          "ào"
+        ],
+        "audio": "audio/phrase-c8a4d19611f0.mp3",
+        "spoken": "书之奥"
+      },
+      {
+        "text": "我周公",
+        "pinyin": [
+          "wǒ",
+          "zhōu",
+          "gōng"
+        ],
+        "audio": "audio/phrase-65ba8e9b2b05.mp3",
+        "spoken": "我周公"
+      },
+      {
+        "text": "作周礼",
+        "pinyin": [
+          "zuò",
+          "zhōu",
+          "lǐ"
+        ],
+        "audio": "audio/phrase-b54239359b11.mp3",
+        "spoken": "作周礼"
+      },
+      {
+        "text": "著六官",
+        "pinyin": [
+          "zhù",
+          "liù",
+          "guān"
+        ],
+        "audio": "audio/phrase-5f52771658b6.mp3",
+        "spoken": "注六官"
+      },
+      {
+        "text": "存治体",
+        "pinyin": [
+          "cún",
+          "zhì",
+          "tǐ"
+        ],
+        "audio": "audio/phrase-ce3a46908c0f.mp3",
+        "spoken": "存治体"
+      }
+    ],
+    "meaning": "典、谟、训、诰、誓、命，是《尚书》中的不同文体，记录古代政事、劝诫和号令。传统说法将《周礼》与周公联系起来，书中按六官叙述国家职官和制度。",
+    "tip": "读古书时，先知道它主要讲什么，再慢慢认识具体的字词。",
+    "audio": "audio/explain-b5acd450828e.mp3",
+    "pdfPage": 20,
+    "printedPage": 19,
+    "sourceText": "有典谟，有训诰。有誓命，书之奥。我周公，作周礼。著六官，存治体。",
+    "speech": "典、谟、训、诰、誓、命，是《尚书》中的不同文体，记录古代政事、劝诫和号令。传统说法将《周礼》与周公联系起来，书中按六官叙述国家职官和制度。"
+  },
+  {
+    "title": "礼记与诗经 · 礼仪和诗歌",
+    "phrases": [
+      {
+        "text": "大小戴",
+        "pinyin": [
+          "dà",
+          "xiǎo",
+          "dài"
+        ],
+        "audio": "audio/phrase-da98203e7bd5.mp3",
+        "spoken": "大小戴"
+      },
+      {
+        "text": "注礼记",
+        "pinyin": [
+          "zhù",
+          "lǐ",
+          "jì"
+        ],
+        "audio": "audio/phrase-ea64617434db.mp3",
+        "spoken": "注礼记"
+      },
+      {
+        "text": "述圣言",
+        "pinyin": [
+          "shù",
+          "shèng",
+          "yán"
+        ],
+        "audio": "audio/phrase-0e5eaa4ee0a3.mp3",
+        "spoken": "述圣言"
+      },
+      {
+        "text": "礼乐备",
+        "pinyin": [
+          "lǐ",
+          "yuè",
+          "bèi"
+        ],
+        "audio": "audio/phrase-45c128da7561.mp3",
+        "spoken": "礼月备"
+      },
+      {
+        "text": "曰国风",
+        "pinyin": [
+          "yuē",
+          "guó",
+          "fēng"
+        ],
+        "audio": "audio/phrase-5be2f791345b.mp3",
+        "spoken": "曰国风"
+      },
+      {
+        "text": "曰雅颂",
+        "pinyin": [
+          "yuē",
+          "yǎ",
+          "sòng"
+        ],
+        "audio": "audio/phrase-0f9be0f4cd97.mp3",
+        "spoken": "曰雅颂"
+      },
+      {
+        "text": "号四诗",
+        "pinyin": [
+          "hào",
+          "sì",
+          "shī"
+        ],
+        "audio": "audio/phrase-f1592b05ce1f.mp3",
+        "spoken": "浩四诗"
+      },
+      {
+        "text": "当讽咏",
+        "pinyin": [
+          "dāng",
+          "fěng",
+          "yǒng"
+        ],
+        "audio": "audio/phrase-8f966100e471.mp3",
+        "spoken": "当讽咏"
+      }
+    ],
+    "meaning": "大小戴指戴德、戴圣，两位学者与《礼记》的整理、传授有关。《礼记》记述礼仪与制度。国风、雅、颂是《诗经》的分类，雅又分大雅、小雅，因此这里说四诗。",
+    "tip": "“礼乐”的“乐”读 yuè。诗歌可以朗读，也可以细细体会它的感情。",
+    "audio": "audio/explain-e4544aecb482.mp3",
+    "pdfPage": 21,
+    "printedPage": 20,
+    "sourceText": "大小戴，注礼记。述圣言，礼乐备。曰国风，曰雅颂。号四诗，当讽咏。",
+    "speech": "大小戴指戴德、戴圣，两位学者与《礼记》的整理、传授有关。《礼记》记述礼仪与制度。国风、雅、颂是《诗经》的分类，雅又分大雅、小雅，因此这里说四诗。"
+  },
+  {
+    "title": "春秋与三传 · 看懂历史记述",
+    "phrases": [
+      {
+        "text": "诗既亡",
+        "pinyin": [
+          "shī",
+          "jì",
+          "wáng"
+        ],
+        "audio": "audio/phrase-d7848e72d0d4.mp3",
+        "spoken": "诗既亡"
+      },
+      {
+        "text": "春秋作",
+        "pinyin": [
+          "chūn",
+          "qiū",
+          "zuò"
+        ],
+        "audio": "audio/phrase-069d501b1c1c.mp3",
+        "spoken": "春秋作"
+      },
+      {
+        "text": "寓褒贬",
+        "pinyin": [
+          "yù",
+          "bāo",
+          "biǎn"
+        ],
+        "audio": "audio/phrase-12e7e1ae4bac.mp3",
+        "spoken": "寓褒贬"
+      },
+      {
+        "text": "别善恶",
+        "pinyin": [
+          "bié",
+          "shàn",
+          "è"
+        ],
+        "audio": "audio/phrase-55f39a5cfd23.mp3",
+        "spoken": "别善恶"
+      },
+      {
+        "text": "三传者",
+        "pinyin": [
+          "sān",
+          "zhuàn",
+          "zhě"
+        ],
+        "audio": "audio/phrase-07d8464c37f5.mp3",
+        "spoken": "三篆者"
+      },
+      {
+        "text": "有公羊",
+        "pinyin": [
+          "yǒu",
+          "gōng",
+          "yáng"
+        ],
+        "audio": "audio/phrase-373ef291fdf7.mp3",
+        "spoken": "有公羊"
+      },
+      {
+        "text": "有左氏",
+        "pinyin": [
+          "yǒu",
+          "zuǒ",
+          "shì"
+        ],
+        "audio": "audio/phrase-11b1e1f0ea8b.mp3",
+        "spoken": "有左氏"
+      },
+      {
+        "text": "有谷梁",
+        "pinyin": [
+          "yǒu",
+          "gǔ",
+          "liáng"
+        ],
+        "audio": "audio/phrase-3f3a908d71d8.mp3",
+        "spoken": "有谷梁"
+      }
+    ],
+    "meaning": "诗既亡，指古代采诗等传统衰落，并不是说《诗经》这本书消失了。《春秋》用简洁的文字记历史，寄托褒贬。公羊、左氏、谷梁，是解释《春秋》的三传。",
+    "tip": "“三传”的“传”读 zhuàn。褒是赞许，贬是批评；读历史也要分辨是非。",
+    "audio": "audio/explain-2ee2fbbfcc56.mp3",
+    "pdfPage": 22,
+    "printedPage": 21,
+    "sourceText": "诗既亡，春秋作。寓褒贬，别善恶。三传者，有公羊。有左氏，有谷梁。",
+    "speech": "诗既亡，指古代采诗等传统衰落，并不是说《诗经》这本书消失了。《春秋》用简洁的文字记历史，寄托褒贬。公羊、左氏、谷梁，是解释《春秋》的三传。"
+  },
+  {
+    "title": "经与子 · 抓住要点读书",
+    "phrases": [
+      {
+        "text": "经既明",
+        "pinyin": [
+          "jīng",
+          "jì",
+          "míng"
+        ],
+        "audio": "audio/phrase-58aec16f5aff.mp3",
+        "spoken": "经既明"
+      },
+      {
+        "text": "方读子",
+        "pinyin": [
+          "fāng",
+          "dú",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-14ab88ca53d8.mp3",
+        "spoken": "方读子"
+      },
+      {
+        "text": "撮其要",
+        "pinyin": [
+          "cuō",
+          "qí",
+          "yào"
+        ],
+        "audio": "audio/phrase-02a8a5be59fa.mp3",
+        "spoken": "撮其要"
+      },
+      {
+        "text": "记其事",
+        "pinyin": [
+          "jì",
+          "qí",
+          "shì"
+        ],
+        "audio": "audio/phrase-64f0f14152df.mp3",
+        "spoken": "记其事"
+      },
+      {
+        "text": "五子者",
+        "pinyin": [
+          "wǔ",
+          "zǐ",
+          "zhě"
+        ],
+        "audio": "audio/phrase-b83b6d1edaeb.mp3",
+        "spoken": "五子者"
+      },
+      {
+        "text": "有荀扬",
+        "pinyin": [
+          "yǒu",
+          "xún",
+          "yáng"
+        ],
+        "audio": "audio/phrase-44211e4113f1.mp3",
+        "spoken": "有寻扬"
+      },
+      {
+        "text": "文中子",
+        "pinyin": [
+          "wén",
+          "zhōng",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-a52ddad4b55e.mp3",
+        "spoken": "文中子"
+      },
+      {
+        "text": "及老庄",
+        "pinyin": [
+          "jí",
+          "lǎo",
+          "zhuāng"
+        ],
+        "audio": "audio/phrase-4f4e82b6076d.mp3",
+        "spoken": "及老庄"
+      }
+    ],
+    "meaning": "课文建议，理解经书后，再读诸子著作，抓住要点、记住重要的事。这里的五子指荀子、扬雄、文中子、老子、庄子。文中子是王通的号。",
+    "tip": "读完一小段，试着用自己的话说出“这一段讲什么”。",
+    "audio": "audio/explain-153683f9e164.mp3",
+    "pdfPage": 23,
+    "printedPage": 22,
+    "sourceText": "经既明，方读子。撮其要，记其事。五子者，有荀扬。文中子，及老庄。",
+    "speech": "课文建议，理解经书后，再读诸子著作，抓住要点、记住重要的事。这里的五子指荀子、扬雄、文中子、老子、庄子。文中子是王通的号。"
+  },
+  {
+    "title": "读史与三皇 · 顺着时间认识过去",
+    "phrases": [
+      {
+        "text": "经子通",
+        "pinyin": [
+          "jīng",
+          "zǐ",
+          "tōng"
+        ],
+        "audio": "audio/phrase-d9a31274dfc2.mp3",
+        "spoken": "经子通"
+      },
+      {
+        "text": "读诸史",
+        "pinyin": [
+          "dú",
+          "zhū",
+          "shǐ"
+        ],
+        "audio": "audio/phrase-4e814cb16701.mp3",
+        "spoken": "读诸史"
+      },
+      {
+        "text": "考世系",
+        "pinyin": [
+          "kǎo",
+          "shì",
+          "xì"
+        ],
+        "audio": "audio/phrase-645a33e66887.mp3",
+        "spoken": "考世系"
+      },
+      {
+        "text": "知终始",
+        "pinyin": [
+          "zhī",
+          "zhōng",
+          "shǐ"
+        ],
+        "audio": "audio/phrase-2e7b026e82c7.mp3",
+        "spoken": "知终始"
+      },
+      {
+        "text": "自羲农",
+        "pinyin": [
+          "zì",
+          "xī",
+          "nóng"
+        ],
+        "audio": "audio/phrase-71f38650fc44.mp3",
+        "spoken": "自羲农"
+      },
+      {
+        "text": "至黄帝",
+        "pinyin": [
+          "zhì",
+          "huáng",
+          "dì"
+        ],
+        "audio": "audio/phrase-cfdcf3275519.mp3",
+        "spoken": "至黄帝"
+      },
+      {
+        "text": "号三皇",
+        "pinyin": [
+          "hào",
+          "sān",
+          "huáng"
+        ],
+        "audio": "audio/phrase-5a9c0484c337.mp3",
+        "spoken": "浩三皇"
+      },
+      {
+        "text": "居上世",
+        "pinyin": [
+          "jū",
+          "shàng",
+          "shì"
+        ],
+        "audio": "audio/phrase-474d90de105f.mp3",
+        "spoken": "居上世"
+      }
+    ],
+    "meaning": "熟悉经书和诸子著作后，可以读历史，了解人物世系与事情的来龙去脉。伏羲、神农、黄帝在这一传统说法中称为三皇，属于中国古代传说中的人物。",
+    "tip": "传说故事和有确切史料的历史要区分；先记顺序，再慢慢理解。",
+    "audio": "audio/explain-8574150adb4f.mp3",
+    "pdfPage": 24,
+    "printedPage": 23,
+    "sourceText": "经子通，读诸史。考世系，知终始。自羲农，至黄帝。号三皇，居上世。",
+    "speech": "熟悉经书和诸子著作后，可以读历史，了解人物世系与事情的来龙去脉。伏羲、神农、黄帝在这一传统说法中称为三皇，属于中国古代传说中的人物。"
+  },
+  {
+    "title": "二帝三王 · 古代的贤君故事",
+    "phrases": [
+      {
+        "text": "唐有虞",
+        "pinyin": [
+          "táng",
+          "yǒu",
+          "yú"
+        ],
+        "audio": "audio/phrase-adddb663b492.mp3",
+        "spoken": "唐有虞"
+      },
+      {
+        "text": "号二帝",
+        "pinyin": [
+          "hào",
+          "èr",
+          "dì"
+        ],
+        "audio": "audio/phrase-1eb427862a74.mp3",
+        "spoken": "浩二帝"
+      },
+      {
+        "text": "相揖逊",
+        "pinyin": [
+          "xiāng",
+          "yī",
+          "xùn"
+        ],
+        "audio": "audio/phrase-3179d40892e3.mp3",
+        "spoken": "相衣逊"
+      },
+      {
+        "text": "称盛世",
+        "pinyin": [
+          "chēng",
+          "shèng",
+          "shì"
+        ],
+        "audio": "audio/phrase-2b3085621d9e.mp3",
+        "spoken": "称盛世"
+      },
+      {
+        "text": "夏有禹",
+        "pinyin": [
+          "xià",
+          "yǒu",
+          "yǔ"
+        ],
+        "audio": "audio/phrase-e40a940e4756.mp3",
+        "spoken": "夏有禹"
+      },
+      {
+        "text": "商有汤",
+        "pinyin": [
+          "shāng",
+          "yǒu",
+          "tāng"
+        ],
+        "audio": "audio/phrase-e2af173eeadc.mp3",
+        "spoken": "商有汤"
+      },
+      {
+        "text": "周文武",
+        "pinyin": [
+          "zhōu",
+          "wén",
+          "wǔ"
+        ],
+        "audio": "audio/phrase-fd1708db611c.mp3",
+        "spoken": "周文武"
+      },
+      {
+        "text": "称三王",
+        "pinyin": [
+          "chēng",
+          "sān",
+          "wáng"
+        ],
+        "audio": "audio/phrase-c287b0df1467.mp3",
+        "spoken": "称三王"
+      }
+    ],
+    "meaning": "唐有虞指尧和舜，传统称二帝。故事说他们通过禅让交接天下，体现推举贤能的理想。夏禹、商汤以及周文王、周武王，是课文接着介绍的古代君王。",
+    "tip": "“相揖逊”讲谦让、禅让。先记住夏、商、周三个朝代的先后顺序。",
+    "audio": "audio/explain-8c75c4cf9e85.mp3",
+    "pdfPage": 25,
+    "printedPage": 24,
+    "sourceText": "唐有虞，号二帝。相揖逊，称盛世。夏有禹，商有汤。周文武，称三王。",
+    "speech": "唐有虞指尧和舜，传统称二帝。故事说他们通过禅让交接天下，体现推举贤能的理想。夏禹、商汤以及周文王、周武王，是课文接着介绍的古代君王。"
+  },
+  {
+    "title": "夏与商 · 朝代的更替",
+    "phrases": [
+      {
+        "text": "夏传子",
+        "pinyin": [
+          "xià",
+          "chuán",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-e6478967f4b0.mp3",
+        "spoken": "夏传子"
+      },
+      {
+        "text": "家天下",
+        "pinyin": [
+          "jiā",
+          "tiān",
+          "xià"
+        ],
+        "audio": "audio/phrase-89a26c5cdad8.mp3",
+        "spoken": "家天下"
+      },
+      {
+        "text": "四百载",
+        "pinyin": [
+          "sì",
+          "bǎi",
+          "zǎi"
+        ],
+        "audio": "audio/phrase-a6c692af9fe7.mp3",
+        "spoken": "四百宰"
+      },
+      {
+        "text": "迁夏社",
+        "pinyin": [
+          "qiān",
+          "xià",
+          "shè"
+        ],
+        "audio": "audio/phrase-9123dbf088f0.mp3",
+        "spoken": "迁夏社"
+      },
+      {
+        "text": "汤伐夏",
+        "pinyin": [
+          "tāng",
+          "fá",
+          "xià"
+        ],
+        "audio": "audio/phrase-702706304620.mp3",
+        "spoken": "汤伐夏"
+      },
+      {
+        "text": "国号商",
+        "pinyin": [
+          "guó",
+          "hào",
+          "shāng"
+        ],
+        "audio": "audio/phrase-f9ed08590cb5.mp3",
+        "spoken": "国号商"
+      },
+      {
+        "text": "六百载",
+        "pinyin": [
+          "liù",
+          "bǎi",
+          "zǎi"
+        ],
+        "audio": "audio/phrase-f060d0b3de45.mp3",
+        "spoken": "六百宰"
+      },
+      {
+        "text": "至纣亡",
+        "pinyin": [
+          "zhì",
+          "zhòu",
+          "wáng"
+        ],
+        "audio": "audio/phrase-0d54380ebed8.mp3",
+        "spoken": "至纣亡"
+      }
+    ],
+    "meaning": "课文说，夏朝开始把王位传给儿子，形成世袭；夏朝后来灭亡，商汤建立商朝。商朝传到纣王时结束。四百载、六百载，是课文对朝代时间的概括。",
+    "tip": "“载”表示年，在这里读 zǎi；“国号”就是国家或朝代的名称。",
+    "audio": "audio/explain-c517e02cc46e.mp3",
+    "pdfPage": 26,
+    "printedPage": 25,
+    "sourceText": "夏传子，家天下。四百载，迁夏社。汤伐夏，国号商。六百载，至纣亡。",
+    "speech": "课文说，夏朝开始把王位传给儿子，形成世袭；夏朝后来灭亡，商汤建立商朝。商朝传到纣王时结束。四百载、六百载，是课文对朝代时间的概括。"
+  },
+  {
+    "title": "周朝 · 从强盛到分裂",
+    "phrases": [
+      {
+        "text": "周武王",
+        "pinyin": [
+          "zhōu",
+          "wǔ",
+          "wáng"
+        ],
+        "audio": "audio/phrase-e711d83604e2.mp3",
+        "spoken": "周武王"
+      },
+      {
+        "text": "始诛纣",
+        "pinyin": [
+          "shǐ",
+          "zhū",
+          "zhòu"
+        ],
+        "audio": "audio/phrase-7df443bbe8a7.mp3",
+        "spoken": "始诛纣"
+      },
+      {
+        "text": "八百载",
+        "pinyin": [
+          "bā",
+          "bǎi",
+          "zǎi"
+        ],
+        "audio": "audio/phrase-0bb30051608f.mp3",
+        "spoken": "八百宰"
+      },
+      {
+        "text": "最长久",
+        "pinyin": [
+          "zuì",
+          "cháng",
+          "jiǔ"
+        ],
+        "audio": "audio/phrase-919b5f7b8d49.mp3",
+        "spoken": "最长久"
+      },
+      {
+        "text": "周辙东",
+        "pinyin": [
+          "zhōu",
+          "zhé",
+          "dōng"
+        ],
+        "audio": "audio/phrase-56ed2d43f249.mp3",
+        "spoken": "周辙东"
+      },
+      {
+        "text": "王纲坠",
+        "pinyin": [
+          "wáng",
+          "gāng",
+          "zhuì"
+        ],
+        "audio": "audio/phrase-312d068d01fd.mp3",
+        "spoken": "王纲坠"
+      },
+      {
+        "text": "逞干戈",
+        "pinyin": [
+          "chěng",
+          "gān",
+          "gē"
+        ],
+        "audio": "audio/phrase-89826947e142.mp3",
+        "spoken": "逞干戈"
+      },
+      {
+        "text": "尚游说",
+        "pinyin": [
+          "shàng",
+          "yóu",
+          "shuì"
+        ],
+        "audio": "audio/phrase-8a2d133fa9b1.mp3",
+        "spoken": "尚游税"
+      }
+    ],
+    "meaning": "周武王讨伐商纣，建立周朝。课文概括周朝历时很长。后来周王室东迁，权力衰弱，各诸侯争战，也有人凭言辞游说各国。",
+    "tip": "“游说”的“说”读 shuì；“干戈”原指兵器，这里借指战争。",
+    "audio": "audio/explain-ad9f38a4d920.mp3",
+    "pdfPage": 27,
+    "printedPage": 26,
+    "sourceText": "周武王，始诛纣。八百载，最长久。周辙东，王纲坠。逞干戈，尚游说。",
+    "speech": "周武王讨伐商纣，建立周朝。课文概括周朝历时很长。后来周王室东迁，权力衰弱，各诸侯争战，也有人凭言辞游说各国。"
+  },
+  {
+    "title": "春秋战国与秦 · 分立到统一",
+    "phrases": [
+      {
+        "text": "始春秋",
+        "pinyin": [
+          "shǐ",
+          "chūn",
+          "qiū"
+        ],
+        "audio": "audio/phrase-86c2e6ae5090.mp3",
+        "spoken": "始春秋"
+      },
+      {
+        "text": "终战国",
+        "pinyin": [
+          "zhōng",
+          "zhàn",
+          "guó"
+        ],
+        "audio": "audio/phrase-fb4b7f862f53.mp3",
+        "spoken": "终战国"
+      },
+      {
+        "text": "五霸强",
+        "pinyin": [
+          "wǔ",
+          "bà",
+          "qiáng"
+        ],
+        "audio": "audio/phrase-ff6a599e8b12.mp3",
+        "spoken": "五霸强"
+      },
+      {
+        "text": "七雄出",
+        "pinyin": [
+          "qī",
+          "xióng",
+          "chū"
+        ],
+        "audio": "audio/phrase-f15b5ad23f2a.mp3",
+        "spoken": "七雄出"
+      },
+      {
+        "text": "嬴秦氏",
+        "pinyin": [
+          "yíng",
+          "qín",
+          "shì"
+        ],
+        "audio": "audio/phrase-72593af318ac.mp3",
+        "spoken": "嬴秦氏"
+      },
+      {
+        "text": "始兼并",
+        "pinyin": [
+          "shǐ",
+          "jiān",
+          "bìng"
+        ],
+        "audio": "audio/phrase-afaf30e59e8f.mp3",
+        "spoken": "始兼并"
+      },
+      {
+        "text": "传二世",
+        "pinyin": [
+          "chuán",
+          "èr",
+          "shì"
+        ],
+        "audio": "audio/phrase-49bfac175c7f.mp3",
+        "spoken": "船二世"
+      },
+      {
+        "text": "楚汉争",
+        "pinyin": [
+          "chǔ",
+          "hàn",
+          "zhēng"
+        ],
+        "audio": "audio/phrase-9166ee4c019d.mp3",
+        "spoken": "楚汉争"
+      }
+    ],
+    "meaning": "春秋时诸侯争霸，战国时有七个强国。后来秦统一六国。秦朝传到二世便很快结束，随后出现楚汉相争。",
+    "tip": "先记这条顺序：春秋、战国、秦朝、楚汉相争。",
+    "audio": "audio/explain-78cd6355a22b.mp3",
+    "pdfPage": 28,
+    "printedPage": 27,
+    "sourceText": "始春秋，终战国。五霸强，七雄出。嬴秦氏，始兼并。传二世，楚汉争。",
+    "speech": "春秋时诸侯争霸，战国时有七个强国。后来秦统一六国。秦朝传到二世便很快结束，随后出现楚汉相争。"
+  },
+  {
+    "title": "两汉 · 西汉和东汉",
+    "phrases": [
+      {
+        "text": "高祖兴",
+        "pinyin": [
+          "gāo",
+          "zǔ",
+          "xīng"
+        ],
+        "audio": "audio/phrase-cb814cf0ed81.mp3",
+        "spoken": "高祖兴"
+      },
+      {
+        "text": "汉业建",
+        "pinyin": [
+          "hàn",
+          "yè",
+          "jiàn"
+        ],
+        "audio": "audio/phrase-50f85deae759.mp3",
+        "spoken": "汉业建"
+      },
+      {
+        "text": "至孝平",
+        "pinyin": [
+          "zhì",
+          "xiào",
+          "píng"
+        ],
+        "audio": "audio/phrase-94213a115537.mp3",
+        "spoken": "至孝平"
+      },
+      {
+        "text": "王莽篡",
+        "pinyin": [
+          "wáng",
+          "mǎng",
+          "cuàn"
+        ],
+        "audio": "audio/phrase-20b46dd3047e.mp3",
+        "spoken": "王莽篡"
+      },
+      {
+        "text": "光武兴",
+        "pinyin": [
+          "guāng",
+          "wǔ",
+          "xīng"
+        ],
+        "audio": "audio/phrase-75c72e7bdcf9.mp3",
+        "spoken": "光武兴"
+      },
+      {
+        "text": "为东汉",
+        "pinyin": [
+          "wéi",
+          "dōng",
+          "hàn"
+        ],
+        "audio": "audio/phrase-b3aed1cd8e27.mp3",
+        "spoken": "为东汉"
+      },
+      {
+        "text": "四百年",
+        "pinyin": [
+          "sì",
+          "bǎi",
+          "nián"
+        ],
+        "audio": "audio/phrase-3cc01c92b94d.mp3",
+        "spoken": "四百年"
+      },
+      {
+        "text": "终于献",
+        "pinyin": [
+          "zhōng",
+          "yú",
+          "xiàn"
+        ],
+        "audio": "audio/phrase-f073aa0241af.mp3",
+        "spoken": "终于献"
+      }
+    ],
+    "meaning": "汉高祖刘邦建立汉朝。西汉末，王莽夺取政权；后来汉光武帝刘秀建立东汉。课文把两汉合起来概括为四百年，东汉在汉献帝时结束。",
+    "tip": "这里的“高祖”指刘邦，“光武”指刘秀，“献”指汉献帝。",
+    "audio": "audio/explain-c2b10ad7c015.mp3",
+    "pdfPage": 29,
+    "printedPage": 28,
+    "sourceText": "高祖兴，汉业建。至孝平，王莽篡。光武兴，为东汉。四百年，终于献。",
+    "speech": "汉高祖刘邦建立汉朝。西汉末，王莽夺取政权；后来汉光武帝刘秀建立东汉。课文把两汉合起来概括为四百年，东汉在汉献帝时结束。"
+  },
+  {
+    "title": "三国两晋与南朝 · 认识朝代顺序",
+    "phrases": [
+      {
+        "text": "魏蜀吴",
+        "pinyin": [
+          "wèi",
+          "shǔ",
+          "wú"
+        ],
+        "audio": "audio/phrase-ae7f907e67e6.mp3",
+        "spoken": "魏蜀吴"
+      },
+      {
+        "text": "争汉鼎",
+        "pinyin": [
+          "zhēng",
+          "hàn",
+          "dǐng"
+        ],
+        "audio": "audio/phrase-f9a441d5ed35.mp3",
+        "spoken": "争汉鼎"
+      },
+      {
+        "text": "号三国",
+        "pinyin": [
+          "hào",
+          "sān",
+          "guó"
+        ],
+        "audio": "audio/phrase-67efa814f3a8.mp3",
+        "spoken": "浩三国"
+      },
+      {
+        "text": "迄两晋",
+        "pinyin": [
+          "qì",
+          "liǎng",
+          "jìn"
+        ],
+        "audio": "audio/phrase-91b710eb3c6d.mp3",
+        "spoken": "迄两晋"
+      },
+      {
+        "text": "宋齐继",
+        "pinyin": [
+          "sòng",
+          "qí",
+          "jì"
+        ],
+        "audio": "audio/phrase-3279c41908a9.mp3",
+        "spoken": "宋齐继"
+      },
+      {
+        "text": "梁陈承",
+        "pinyin": [
+          "liáng",
+          "chén",
+          "chéng"
+        ],
+        "audio": "audio/phrase-cbba16a14c16.mp3",
+        "spoken": "梁陈承"
+      },
+      {
+        "text": "为南朝",
+        "pinyin": [
+          "wéi",
+          "nán",
+          "cháo"
+        ],
+        "audio": "audio/phrase-1ef41cd41fcf.mp3",
+        "spoken": "为南朝"
+      },
+      {
+        "text": "都金陵",
+        "pinyin": [
+          "dū",
+          "jīn",
+          "líng"
+        ],
+        "audio": "audio/phrase-68b2c090453e.mp3",
+        "spoken": "都金陵"
+      }
+    ],
+    "meaning": "汉朝之后有魏、蜀、吴三国，随后是西晋、东晋。南朝的宋、齐、梁、陈先后出现，它们的都城都在今天南京一带，古称金陵。",
+    "tip": "这里的南朝“宋”是刘宋，与后面赵匡胤建立的宋朝不同。",
+    "audio": "audio/explain-9e5779d136aa.mp3",
+    "pdfPage": 30,
+    "printedPage": 29,
+    "sourceText": "魏蜀吴，争汉鼎。号三国，迄两晋。宋齐继，梁陈承。为南朝，都金陵。",
+    "speech": "汉朝之后有魏、蜀、吴三国，随后是西晋、东晋。南朝的宋、齐、梁、陈先后出现，它们的都城都在今天南京一带，古称金陵。"
+  },
+  {
+    "title": "北朝与隋 · 再次统一",
+    "phrases": [
+      {
+        "text": "北元魏",
+        "pinyin": [
+          "běi",
+          "yuán",
+          "wèi"
+        ],
+        "audio": "audio/phrase-bda873797346.mp3",
+        "spoken": "北元魏"
+      },
+      {
+        "text": "分东西",
+        "pinyin": [
+          "fēn",
+          "dōng",
+          "xī"
+        ],
+        "audio": "audio/phrase-14ce327c8141.mp3",
+        "spoken": "分东西"
+      },
+      {
+        "text": "宇文周",
+        "pinyin": [
+          "yǔ",
+          "wén",
+          "zhōu"
+        ],
+        "audio": "audio/phrase-e5dcd8fa740a.mp3",
+        "spoken": "宇文周"
+      },
+      {
+        "text": "与高齐",
+        "pinyin": [
+          "yǔ",
+          "gāo",
+          "qí"
+        ],
+        "audio": "audio/phrase-d8ea7e75f26f.mp3",
+        "spoken": "与高齐"
+      },
+      {
+        "text": "迨至隋",
+        "pinyin": [
+          "dài",
+          "zhì",
+          "suí"
+        ],
+        "audio": "audio/phrase-15808e3f130c.mp3",
+        "spoken": "代至隋"
+      },
+      {
+        "text": "一土宇",
+        "pinyin": [
+          "yī",
+          "tǔ",
+          "yǔ"
+        ],
+        "audio": "audio/phrase-7ce631197293.mp3",
+        "spoken": "一土宇"
+      },
+      {
+        "text": "不再传",
+        "pinyin": [
+          "bù",
+          "zài",
+          "chuán"
+        ],
+        "audio": "audio/phrase-2266c252fb78.mp3",
+        "spoken": "不再传"
+      },
+      {
+        "text": "失统绪",
+        "pinyin": [
+          "shī",
+          "tǒng",
+          "xù"
+        ],
+        "audio": "audio/phrase-6f077b3224dc.mp3",
+        "spoken": "失统绪"
+      }
+    ],
+    "meaning": "北魏后来分为东魏、西魏，随后出现北周、北齐。隋朝结束南北分裂，再次统一。课文说隋朝只经历很短的传承，就失去天下。",
+    "tip": "“一土宇”是统一疆土的意思。“与高齐”的“与”表示和。",
+    "audio": "audio/explain-5a400ec17322.mp3",
+    "pdfPage": 31,
+    "printedPage": 30,
+    "sourceText": "北元魏，分东西。宇文周，与高齐。迨至隋，一土宇。不再传，失统绪。",
+    "speech": "北魏后来分为东魏、西魏，随后出现北周、北齐。隋朝结束南北分裂，再次统一。课文说隋朝只经历很短的传承，就失去天下。"
+  },
+  {
+    "title": "唐朝 · 建立与结束",
+    "phrases": [
+      {
+        "text": "唐高祖",
+        "pinyin": [
+          "táng",
+          "gāo",
+          "zǔ"
+        ],
+        "audio": "audio/phrase-09e206df907c.mp3",
+        "spoken": "唐高祖"
+      },
+      {
+        "text": "起义师",
+        "pinyin": [
+          "qǐ",
+          "yì",
+          "shī"
+        ],
+        "audio": "audio/phrase-72717ca6b224.mp3",
+        "spoken": "起义师"
+      },
+      {
+        "text": "除隋乱",
+        "pinyin": [
+          "chú",
+          "suí",
+          "luàn"
+        ],
+        "audio": "audio/phrase-d92979ee9560.mp3",
+        "spoken": "除隋乱"
+      },
+      {
+        "text": "创国基",
+        "pinyin": [
+          "chuàng",
+          "guó",
+          "jī"
+        ],
+        "audio": "audio/phrase-db121ebd2558.mp3",
+        "spoken": "创国基"
+      },
+      {
+        "text": "二十传",
+        "pinyin": [
+          "èr",
+          "shí",
+          "chuán"
+        ],
+        "audio": "audio/phrase-5f6facd482fb.mp3",
+        "spoken": "二十船"
+      },
+      {
+        "text": "三百载",
+        "pinyin": [
+          "sān",
+          "bǎi",
+          "zǎi"
+        ],
+        "audio": "audio/phrase-ae95316d9269.mp3",
+        "spoken": "三百宰"
+      },
+      {
+        "text": "梁灭之",
+        "pinyin": [
+          "liáng",
+          "miè",
+          "zhī"
+        ],
+        "audio": "audio/phrase-99a26aa9e236.mp3",
+        "spoken": "梁灭之"
+      },
+      {
+        "text": "国乃改",
+        "pinyin": [
+          "guó",
+          "nǎi",
+          "gǎi"
+        ],
+        "audio": "audio/phrase-d9a57e2a9c04.mp3",
+        "spoken": "国乃改"
+      }
+    ],
+    "meaning": "唐高祖李渊起兵，结束隋末局面，建立唐朝。课文用二十传、三百载概括唐朝的传承与时间。后来朱温建立后梁，唐朝结束。",
+    "tip": "“传”在这里说的是帝位传承；“国基”是国家建立的基础。",
+    "audio": "audio/explain-50140d45fe61.mp3",
+    "pdfPage": 32,
+    "printedPage": 31,
+    "sourceText": "唐高祖，起义师。除隋乱，创国基。二十传，三百载。梁灭之，国乃改。",
+    "speech": "唐高祖李渊起兵，结束隋末局面，建立唐朝。课文用二十传、三百载概括唐朝的传承与时间。后来朱温建立后梁，唐朝结束。"
+  },
+  {
+    "title": "五代与宋 · 接续的朝代",
+    "phrases": [
+      {
+        "text": "梁唐晋",
+        "pinyin": [
+          "liáng",
+          "táng",
+          "jìn"
+        ],
+        "audio": "audio/phrase-52ddb1cb807d.mp3",
+        "spoken": "梁唐晋"
+      },
+      {
+        "text": "及汉周",
+        "pinyin": [
+          "jí",
+          "hàn",
+          "zhōu"
+        ],
+        "audio": "audio/phrase-b9effffcade2.mp3",
+        "spoken": "及汉周"
+      },
+      {
+        "text": "称五代",
+        "pinyin": [
+          "chēng",
+          "wǔ",
+          "dài"
+        ],
+        "audio": "audio/phrase-1ae14ef67527.mp3",
+        "spoken": "称五代"
+      },
+      {
+        "text": "皆有由",
+        "pinyin": [
+          "jiē",
+          "yǒu",
+          "yóu"
+        ],
+        "audio": "audio/phrase-6a906861c701.mp3",
+        "spoken": "皆有由"
+      },
+      {
+        "text": "炎宋兴",
+        "pinyin": [
+          "yán",
+          "sòng",
+          "xīng"
+        ],
+        "audio": "audio/phrase-4c01270f8c44.mp3",
+        "spoken": "炎宋兴"
+      },
+      {
+        "text": "受周禅",
+        "pinyin": [
+          "shòu",
+          "zhōu",
+          "shàn"
+        ],
+        "audio": "audio/phrase-8e1c9b239fb7.mp3",
+        "spoken": "受周禅"
+      },
+      {
+        "text": "十八传",
+        "pinyin": [
+          "shí",
+          "bā",
+          "chuán"
+        ],
+        "audio": "audio/phrase-9422db6b0810.mp3",
+        "spoken": "十八船"
+      },
+      {
+        "text": "南北混",
+        "pinyin": [
+          "nán",
+          "běi",
+          "hùn"
+        ],
+        "audio": "audio/phrase-ed5bb7f1fc14.mp3",
+        "spoken": "南北混"
+      }
+    ],
+    "meaning": "后梁、后唐、后晋、后汉、后周合称五代。赵匡胤在后周之后建立宋朝。宋朝分北宋、南宋，课文以十八传概括它的帝位传承。",
+    "tip": "五代的“唐、晋、汉、周”前面常加“后”，与更早的同名朝代区分。",
+    "audio": "audio/explain-c971b864f0f5.mp3",
+    "pdfPage": 33,
+    "printedPage": 32,
+    "sourceText": "梁唐晋，及汉周。称五代，皆有由。炎宋兴，受周禅。十八传，南北混。",
+    "speech": "后梁、后唐、后晋、后汉、后周合称五代。赵匡胤在后周之后建立宋朝。宋朝分北宋、南宋，课文以十八传概括它的帝位传承。"
+  },
+  {
+    "title": "辽金与元 · 几个政权的更替",
+    "phrases": [
+      {
+        "text": "辽与金",
+        "pinyin": [
+          "liáo",
+          "yǔ",
+          "jīn"
+        ],
+        "audio": "audio/phrase-ebc541040893.mp3",
+        "spoken": "辽与金"
+      },
+      {
+        "text": "帝号纷",
+        "pinyin": [
+          "dì",
+          "hào",
+          "fēn"
+        ],
+        "audio": "audio/phrase-14997079a132.mp3",
+        "spoken": "帝号纷"
+      },
+      {
+        "text": "迨灭辽",
+        "pinyin": [
+          "dài",
+          "miè",
+          "liáo"
+        ],
+        "audio": "audio/phrase-0b58b272a8b2.mp3",
+        "spoken": "代灭辽"
+      },
+      {
+        "text": "宋犹存",
+        "pinyin": [
+          "sòng",
+          "yóu",
+          "cún"
+        ],
+        "audio": "audio/phrase-e3217ffcc25e.mp3",
+        "spoken": "宋犹存"
+      },
+      {
+        "text": "至元兴",
+        "pinyin": [
+          "zhì",
+          "yuán",
+          "xīng"
+        ],
+        "audio": "audio/phrase-a004b7be94ec.mp3",
+        "spoken": "至元兴"
+      },
+      {
+        "text": "金绪歇",
+        "pinyin": [
+          "jīn",
+          "xù",
+          "xiē"
+        ],
+        "audio": "audio/phrase-5de38bb480e8.mp3",
+        "spoken": "金绪歇"
+      },
+      {
+        "text": "有宋世",
+        "pinyin": [
+          "yǒu",
+          "sòng",
+          "shì"
+        ],
+        "audio": "audio/phrase-247862e141cf.mp3",
+        "spoken": "有宋世"
+      },
+      {
+        "text": "一同灭",
+        "pinyin": [
+          "yī",
+          "tóng",
+          "miè"
+        ],
+        "audio": "audio/phrase-e284c7dae50e.mp3",
+        "spoken": "一同灭"
+      }
+    ],
+    "meaning": "辽和金先后称帝，金灭辽时，宋朝仍然存在。蒙古势力兴起，建立元朝，金和南宋先后灭亡。课文用简短句子概括这段较长的历史。",
+    "tip": "句中的“迨”是等到，“绪歇”是传承结束。先了解大致顺序，不必把几件事理解为同一天发生。",
+    "audio": "audio/explain-76966026a7ec.mp3",
+    "pdfPage": 34,
+    "printedPage": 33,
+    "sourceText": "辽与金，帝号纷。迨灭辽，宋犹存。至元兴，金绪歇。有宋世，一同灭。",
+    "speech": "辽和金先后称帝，金灭辽时，宋朝仍然存在。蒙古势力兴起，建立元朝，金和南宋先后灭亡。课文用简短句子概括这段较长的历史。"
+  },
+  {
+    "title": "元与明初 · 新朝代的建立",
+    "phrases": [
+      {
+        "text": "并中国",
+        "pinyin": [
+          "bìng",
+          "zhōng",
+          "guó"
+        ],
+        "audio": "audio/phrase-08ffd4ee9f2b.mp3",
+        "spoken": "并中国"
+      },
+      {
+        "text": "兼戎翟",
+        "pinyin": [
+          "jiān",
+          "róng",
+          "dí"
+        ],
+        "audio": "audio/phrase-52117ed0577d.mp3",
+        "spoken": "兼戎狄"
+      },
+      {
+        "text": "九十年",
+        "pinyin": [
+          "jiǔ",
+          "shí",
+          "nián"
+        ],
+        "audio": "audio/phrase-94d0724f7fbc.mp3",
+        "spoken": "九十年"
+      },
+      {
+        "text": "国祚废",
+        "pinyin": [
+          "guó",
+          "zuò",
+          "fèi"
+        ],
+        "audio": "audio/phrase-be611db60d37.mp3",
+        "spoken": "国祚废"
+      },
+      {
+        "text": "明太祖",
+        "pinyin": [
+          "míng",
+          "tài",
+          "zǔ"
+        ],
+        "audio": "audio/phrase-8364f1365dba.mp3",
+        "spoken": "明太祖"
+      },
+      {
+        "text": "久亲师",
+        "pinyin": [
+          "jiǔ",
+          "qīn",
+          "shī"
+        ],
+        "audio": "audio/phrase-d7bfd796af1b.mp3",
+        "spoken": "久亲师"
+      },
+      {
+        "text": "传建文",
+        "pinyin": [
+          "chuán",
+          "jiàn",
+          "wén"
+        ],
+        "audio": "audio/phrase-4b0e3ec3f9ae.mp3",
+        "spoken": "传建文"
+      },
+      {
+        "text": "方四祀",
+        "pinyin": [
+          "fāng",
+          "sì",
+          "sì"
+        ],
+        "audio": "audio/phrase-a65413ce7d2f.mp3",
+        "spoken": "方四祀"
+      }
+    ],
+    "meaning": "课文概括元朝统治范围广，后来国运结束。明太祖朱元璋长期亲自统军，建立明朝。建文帝继位后，年号用了四年。戎翟是古代对部分族群的称呼。",
+    "tip": "“戎翟”的“翟”在这里读 dí；古代族群称谓有时代背景，今天要平等尊重各民族。",
+    "audio": "audio/explain-fcc60cee251e.mp3",
+    "pdfPage": 35,
+    "printedPage": 34,
+    "sourceText": "并中国，兼戎翟。九十年，国祚废。明太祖，久亲师。传建文，方四祀。",
+    "speech": "课文概括元朝统治范围广，后来国运结束。明太祖朱元璋长期亲自统军，建立明朝。建文帝继位后，年号用了四年。戎狄是古代对部分族群的称呼。"
+  },
+  {
+    "title": "明代与史书 · 看见兴衰",
+    "phrases": [
+      {
+        "text": "迁北京",
+        "pinyin": [
+          "qiān",
+          "běi",
+          "jīng"
+        ],
+        "audio": "audio/phrase-c47f2aeaa767.mp3",
+        "spoken": "迁北京"
+      },
+      {
+        "text": "永乐嗣",
+        "pinyin": [
+          "yǒng",
+          "lè",
+          "sì"
+        ],
+        "audio": "audio/phrase-88b7773de7fa.mp3",
+        "spoken": "永乐嗣"
+      },
+      {
+        "text": "迨崇祯",
+        "pinyin": [
+          "dài",
+          "chóng",
+          "zhēn"
+        ],
+        "audio": "audio/phrase-8696b3f7d8be.mp3",
+        "spoken": "代崇祯"
+      },
+      {
+        "text": "煤山逝",
+        "pinyin": [
+          "méi",
+          "shān",
+          "shì"
+        ],
+        "audio": "audio/phrase-a1318467b210.mp3",
+        "spoken": "煤山逝"
+      },
+      {
+        "text": "廿二史",
+        "pinyin": [
+          "niàn",
+          "èr",
+          "shǐ"
+        ],
+        "audio": "audio/phrase-c4fefe3232eb.mp3",
+        "spoken": "念二史"
+      },
+      {
+        "text": "全在兹",
+        "pinyin": [
+          "quán",
+          "zài",
+          "zī"
+        ],
+        "audio": "audio/phrase-25c327e179d2.mp3",
+        "spoken": "全在兹"
+      },
+      {
+        "text": "载治乱",
+        "pinyin": [
+          "zǎi",
+          "zhì",
+          "luàn"
+        ],
+        "audio": "audio/phrase-8a92153de144.mp3",
+        "spoken": "载治乱"
+      },
+      {
+        "text": "知兴衰",
+        "pinyin": [
+          "zhī",
+          "xīng",
+          "shuāi"
+        ],
+        "audio": "audio/phrase-f70cf30c962a.mp3",
+        "spoken": "知兴衰"
+      }
+    ],
+    "meaning": "永乐帝继位后迁都北京。明末崇祯帝在煤山去世，明朝结束。廿二史是这份旧版课文对史书的称呼，接着强调：读历史能了解治乱与兴衰。",
+    "tip": "“廿”就是二十，读 niàn；“嗣”是继承。“廿二史”是本版本用语，今天常说的“二十四史”范围不同。",
+    "audio": "audio/explain-6656db628d77.mp3",
+    "pdfPage": 36,
+    "printedPage": 35,
+    "sourceText": "迁北京，永乐嗣。迨崇祯，煤山逝。廿二史，全在兹。载治乱，知兴衰。",
+    "speech": "永乐帝继位后迁都北京。明末崇祯帝在煤山去世，明朝结束。廿二史是这份旧版课文对史书的称呼，接着强调：读历史能了解治乱与兴衰。"
+  },
+  {
+    "title": "读史与诵读 · 读也要想",
+    "phrases": [
+      {
+        "text": "读史者",
+        "pinyin": [
+          "dú",
+          "shǐ",
+          "zhě"
+        ],
+        "audio": "audio/phrase-328b242c1505.mp3",
+        "spoken": "读史者"
+      },
+      {
+        "text": "考实录",
+        "pinyin": [
+          "kǎo",
+          "shí",
+          "lù"
+        ],
+        "audio": "audio/phrase-fafc9ecfe546.mp3",
+        "spoken": "考实录"
+      },
+      {
+        "text": "通古今",
+        "pinyin": [
+          "tōng",
+          "gǔ",
+          "jīn"
+        ],
+        "audio": "audio/phrase-973b874526ad.mp3",
+        "spoken": "通古今"
+      },
+      {
+        "text": "若亲目",
+        "pinyin": [
+          "ruò",
+          "qīn",
+          "mù"
+        ],
+        "audio": "audio/phrase-bc9cf29dc038.mp3",
+        "spoken": "若亲目"
+      },
+      {
+        "text": "口而诵",
+        "pinyin": [
+          "kǒu",
+          "ér",
+          "sòng"
+        ],
+        "audio": "audio/phrase-c2db3c2e1255.mp3",
+        "spoken": "口而诵"
+      },
+      {
+        "text": "心而维",
+        "pinyin": [
+          "xīn",
+          "ér",
+          "wéi"
+        ],
+        "audio": "audio/phrase-fb158cb52c63.mp3",
+        "spoken": "心而维"
+      },
+      {
+        "text": "朝于斯",
+        "pinyin": [
+          "zhāo",
+          "yú",
+          "sī"
+        ],
+        "audio": "audio/phrase-0075b8147fb6.mp3",
+        "spoken": "昭于斯"
+      },
+      {
+        "text": "夕于斯",
+        "pinyin": [
+          "xī",
+          "yú",
+          "sī"
+        ],
+        "audio": "audio/phrase-417ed21cdf87.mp3",
+        "spoken": "夕于斯"
+      }
+    ],
+    "meaning": "读历史要考察可靠的记录，了解古今，就像亲眼看见一样。朗读时嘴里读，心里也要思考。朝夕都能学习，是提醒我们持之以恒。",
+    "tip": "“维”在这里讲思考。先读懂一小段，再复述，不必一天背很多。",
+    "audio": "audio/explain-165aad8decb3.mp3",
+    "pdfPage": 37,
+    "printedPage": 36,
+    "sourceText": "读史者，考实录。通古今，若亲目。口而诵，心而维。朝于斯，夕于斯。",
+    "speech": "读历史要考察可靠的记录，了解古今，就像亲眼看见一样。朗读时嘴里读，心里也要思考。朝夕都能学习，是提醒我们持之以恒。"
+  },
+  {
+    "title": "孔子与赵普 · 人人都能学习",
+    "phrases": [
+      {
+        "text": "昔仲尼",
+        "pinyin": [
+          "xī",
+          "zhòng",
+          "ní"
+        ],
+        "audio": "audio/phrase-a258a8bd2713.mp3",
+        "spoken": "昔仲尼"
+      },
+      {
+        "text": "师项橐",
+        "pinyin": [
+          "shī",
+          "xiàng",
+          "tuó"
+        ],
+        "audio": "audio/phrase-f9e282cd392e.mp3",
+        "spoken": "师项橐"
+      },
+      {
+        "text": "古圣贤",
+        "pinyin": [
+          "gǔ",
+          "shèng",
+          "xián"
+        ],
+        "audio": "audio/phrase-03385ff912ff.mp3",
+        "spoken": "古圣贤"
+      },
+      {
+        "text": "尚勤学",
+        "pinyin": [
+          "shàng",
+          "qín",
+          "xué"
+        ],
+        "audio": "audio/phrase-640d91d53481.mp3",
+        "spoken": "尚勤学"
+      },
+      {
+        "text": "赵中令",
+        "pinyin": [
+          "zhào",
+          "zhōng",
+          "lìng"
+        ],
+        "audio": "audio/phrase-d94e496c85f4.mp3",
+        "spoken": "赵中令"
+      },
+      {
+        "text": "读鲁论",
+        "pinyin": [
+          "dú",
+          "lǔ",
+          "lún"
+        ],
+        "audio": "audio/phrase-0e4738c42a39.mp3",
+        "spoken": "读鲁伦"
+      },
+      {
+        "text": "彼既仕",
+        "pinyin": [
+          "bǐ",
+          "jì",
+          "shì"
+        ],
+        "audio": "audio/phrase-b925500488d6.mp3",
+        "spoken": "彼既仕"
+      },
+      {
+        "text": "学且勤",
+        "pinyin": [
+          "xué",
+          "qiě",
+          "qín"
+        ],
+        "audio": "audio/phrase-33aa4b9625b7.mp3",
+        "spoken": "学且勤"
+      }
+    ],
+    "meaning": "课文讲孔子向项橐请教的传统故事，提醒我们谦虚求学。赵中令指赵普，鲁论指《论语》；他已经做官，仍然勤奋读书。",
+    "tip": "古人的故事用来说明学习态度。遇到不懂的问题，勇敢请教，不因年龄或身份而自满。",
+    "audio": "audio/explain-8e5cf50f4396.mp3",
+    "pdfPage": 38,
+    "printedPage": 37,
+    "sourceText": "昔仲尼，师项橐。古圣贤，尚勤学。赵中令，读鲁论。彼既仕，学且勤。",
+    "speech": "课文讲孔子向项驼请教的传统故事，提醒我们谦虚求学。赵中令指赵普，鲁论指《伦语》；他已经做官，仍然勤奋读书。"
+  },
+  {
+    "title": "苦学故事 · 爱惜学习机会",
+    "phrases": [
+      {
+        "text": "披蒲编",
+        "pinyin": [
+          "pī",
+          "pú",
+          "biān"
+        ],
+        "audio": "audio/phrase-bac0b35939b4.mp3",
+        "spoken": "披蒲编"
+      },
+      {
+        "text": "削竹简",
+        "pinyin": [
+          "xuē",
+          "zhú",
+          "jiǎn"
+        ],
+        "audio": "audio/phrase-d8c79981815a.mp3",
+        "spoken": "削竹简"
+      },
+      {
+        "text": "彼无书",
+        "pinyin": [
+          "bǐ",
+          "wú",
+          "shū"
+        ],
+        "audio": "audio/phrase-941ed1450aff.mp3",
+        "spoken": "彼无书"
+      },
+      {
+        "text": "且知勉",
+        "pinyin": [
+          "qiě",
+          "zhī",
+          "miǎn"
+        ],
+        "audio": "audio/phrase-846485fc47f4.mp3",
+        "spoken": "且知勉"
+      },
+      {
+        "text": "头悬梁",
+        "pinyin": [
+          "tóu",
+          "xuán",
+          "liáng"
+        ],
+        "audio": "audio/phrase-afed986b2716.mp3",
+        "spoken": "头悬梁"
+      },
+      {
+        "text": "锥刺股",
+        "pinyin": [
+          "zhuī",
+          "cì",
+          "gǔ"
+        ],
+        "audio": "audio/phrase-a41b6c677ebe.mp3",
+        "spoken": "锥刺股"
+      },
+      {
+        "text": "彼不教",
+        "pinyin": [
+          "bǐ",
+          "bù",
+          "jiào"
+        ],
+        "audio": "audio/phrase-bb5d5566f2ba.mp3",
+        "spoken": "彼不教"
+      },
+      {
+        "text": "自勤苦",
+        "pinyin": [
+          "zì",
+          "qín",
+          "kǔ"
+        ],
+        "audio": "audio/phrase-c4fc31718a67.mp3",
+        "spoken": "自勤苦"
+      }
+    ],
+    "meaning": "课文用抄写蒲编、竹简和悬梁刺股等故事，赞扬古人条件艰苦仍努力学习。我们可以学习他们的认真和坚持，而不模仿伤害身体的行为。",
+    "tip": "学习要保护身体、睡好觉。用规律作息和短时专注来坚持，不靠疼痛强迫自己。",
+    "audio": "audio/explain-f47c350423c8.mp3",
+    "pdfPage": 39,
+    "printedPage": 38,
+    "sourceText": "披蒲编，削竹简。彼无书，且知勉。头悬梁，锥刺股。彼不教，自勤苦。",
+    "speech": "课文用抄写蒲编、竹简和悬梁刺股等故事，赞扬古人条件艰苦仍努力学习。我们可以学习他们的认真和坚持，而不模仿伤害身体的行为。"
+  },
+  {
+    "title": "囊萤映雪 · 困难中也求学",
+    "phrases": [
+      {
+        "text": "如囊萤",
+        "pinyin": [
+          "rú",
+          "náng",
+          "yíng"
+        ],
+        "audio": "audio/phrase-d98172c7e50f.mp3",
+        "spoken": "如囊萤"
+      },
+      {
+        "text": "如映雪",
+        "pinyin": [
+          "rú",
+          "yìng",
+          "xuě"
+        ],
+        "audio": "audio/phrase-57cf8df82fff.mp3",
+        "spoken": "如映雪"
+      },
+      {
+        "text": "家虽贫",
+        "pinyin": [
+          "jiā",
+          "suī",
+          "pín"
+        ],
+        "audio": "audio/phrase-19a5d0f9c07d.mp3",
+        "spoken": "家虽贫"
+      },
+      {
+        "text": "学不辍",
+        "pinyin": [
+          "xué",
+          "bù",
+          "chuò"
+        ],
+        "audio": "audio/phrase-4d6dba0e7e0d.mp3",
+        "spoken": "学不辍"
+      },
+      {
+        "text": "如负薪",
+        "pinyin": [
+          "rú",
+          "fù",
+          "xīn"
+        ],
+        "audio": "audio/phrase-ce944fb4226a.mp3",
+        "spoken": "如负薪"
+      },
+      {
+        "text": "如挂角",
+        "pinyin": [
+          "rú",
+          "guà",
+          "jiǎo"
+        ],
+        "audio": "audio/phrase-d277cb966ec1.mp3",
+        "spoken": "如挂角"
+      },
+      {
+        "text": "身虽劳",
+        "pinyin": [
+          "shēn",
+          "suī",
+          "láo"
+        ],
+        "audio": "audio/phrase-654e78280eba.mp3",
+        "spoken": "身虽劳"
+      },
+      {
+        "text": "犹苦卓",
+        "pinyin": [
+          "yóu",
+          "kǔ",
+          "zhuó"
+        ],
+        "audio": "audio/phrase-c8b437e7e463.mp3",
+        "spoken": "犹苦卓"
+      }
+    ],
+    "meaning": "囊萤、映雪、负薪、挂角，都是古代劝学故事，讲有人生活困难、劳动辛苦，仍努力找机会读书。重点是珍惜学习机会和坚持。",
+    "tip": "“负薪”是背柴；“挂角”指把书挂在牛角上。读书也要保证光线充足，注意安全。",
+    "audio": "audio/explain-7995f6bb5a2a.mp3",
+    "pdfPage": 40,
+    "printedPage": 39,
+    "sourceText": "如囊萤，如映雪。家虽贫，学不辍。如负薪，如挂角。身虽劳，犹苦卓。",
+    "speech": "囊萤、映雪、负薪、挂角，都是古代劝学故事，讲有人生活困难、劳动辛苦，仍努力找机会读书。重点是珍惜学习机会和坚持。"
+  },
+  {
+    "title": "苏老泉 · 开始学习不嫌晚",
+    "phrases": [
+      {
+        "text": "苏老泉",
+        "pinyin": [
+          "sū",
+          "lǎo",
+          "quán"
+        ],
+        "audio": "audio/phrase-9c3fb430698a.mp3",
+        "spoken": "苏老泉"
+      },
+      {
+        "text": "二十七",
+        "pinyin": [
+          "èr",
+          "shí",
+          "qī"
+        ],
+        "audio": "audio/phrase-a31f4dadfda9.mp3",
+        "spoken": "二十七"
+      },
+      {
+        "text": "始发奋",
+        "pinyin": [
+          "shǐ",
+          "fā",
+          "fèn"
+        ],
+        "audio": "audio/phrase-8262e3689232.mp3",
+        "spoken": "始发奋"
+      },
+      {
+        "text": "读书籍",
+        "pinyin": [
+          "dú",
+          "shū",
+          "jí"
+        ],
+        "audio": "audio/phrase-44bee3b4ae8f.mp3",
+        "spoken": "读书籍"
+      },
+      {
+        "text": "彼既老",
+        "pinyin": [
+          "bǐ",
+          "jì",
+          "lǎo"
+        ],
+        "audio": "audio/phrase-ba73445da359.mp3",
+        "spoken": "彼既老"
+      },
+      {
+        "text": "犹悔迟",
+        "pinyin": [
+          "yóu",
+          "huǐ",
+          "chí"
+        ],
+        "audio": "audio/phrase-620ecea99663.mp3",
+        "spoken": "犹悔迟"
+      },
+      {
+        "text": "尔小生",
+        "pinyin": [
+          "ěr",
+          "xiǎo",
+          "shēng"
+        ],
+        "audio": "audio/phrase-ee5aa2148b1e.mp3",
+        "spoken": "尔小生"
+      },
+      {
+        "text": "宜早思",
+        "pinyin": [
+          "yí",
+          "zǎo",
+          "sī"
+        ],
+        "audio": "audio/phrase-56a4a788147d.mp3",
+        "spoken": "宜早思"
+      }
+    ],
+    "meaning": "课文说，苏老泉二十七岁开始发奋读书，仍觉得开始得晚，用这个故事勉励年轻人珍惜时间。苏老泉就是苏洵，苏轼、苏辙的父亲。",
+    "tip": "你不必和别人比快。选一个今天就能完成的小目标，从现在开始。",
+    "audio": "audio/explain-6404a1982646.mp3",
+    "pdfPage": 41,
+    "printedPage": 40,
+    "sourceText": "苏老泉，二十七。始发奋，读书籍。彼既老，犹悔迟。尔小生，宜早思。",
+    "speech": "课文说，苏老泉二十七岁开始发奋读书，仍觉得开始得晚，用这个故事勉励年轻人珍惜时间。苏老泉就是苏洵，苏轼、苏辙的父亲。"
+  },
+  {
+    "title": "梁灏 · 坚持与立志",
+    "phrases": [
+      {
+        "text": "若梁灏",
+        "pinyin": [
+          "ruò",
+          "liáng",
+          "hào"
+        ],
+        "audio": "audio/phrase-cf1f608c18fd.mp3",
+        "spoken": "若梁灏"
+      },
+      {
+        "text": "八十二",
+        "pinyin": [
+          "bā",
+          "shí",
+          "èr"
+        ],
+        "audio": "audio/phrase-7717f5b65cbd.mp3",
+        "spoken": "八十二"
+      },
+      {
+        "text": "对大廷",
+        "pinyin": [
+          "duì",
+          "dà",
+          "tíng"
+        ],
+        "audio": "audio/phrase-324a8948062d.mp3",
+        "spoken": "对大廷"
+      },
+      {
+        "text": "魁多士",
+        "pinyin": [
+          "kuí",
+          "duō",
+          "shì"
+        ],
+        "audio": "audio/phrase-9970f311a93c.mp3",
+        "spoken": "魁多士"
+      },
+      {
+        "text": "彼既成",
+        "pinyin": [
+          "bǐ",
+          "jì",
+          "chéng"
+        ],
+        "audio": "audio/phrase-e660d53ea969.mp3",
+        "spoken": "彼既成"
+      },
+      {
+        "text": "众称异",
+        "pinyin": [
+          "zhòng",
+          "chēng",
+          "yì"
+        ],
+        "audio": "audio/phrase-78153a4c9d86.mp3",
+        "spoken": "众称异"
+      },
+      {
+        "text": "尔小生",
+        "pinyin": [
+          "ěr",
+          "xiǎo",
+          "shēng"
+        ],
+        "audio": "audio/phrase-ee5aa2148b1e.mp3",
+        "spoken": "尔小生"
+      },
+      {
+        "text": "宜立志",
+        "pinyin": [
+          "yí",
+          "lì",
+          "zhì"
+        ],
+        "audio": "audio/phrase-778d8a1df966.mp3",
+        "spoken": "宜立志"
+      }
+    ],
+    "meaning": "课文用梁灏八十二岁在朝廷考试中出众的传统故事，说明立志与坚持的重要。古人的劝学故事不等于完整的历史记录，读故事时重在理解它想表达的道理。",
+    "tip": "“魁”有居首、出众的意思；“立志”就是为自己确定努力的方向。",
+    "audio": "audio/explain-b56c4001700d.mp3",
+    "pdfPage": 42,
+    "printedPage": 41,
+    "sourceText": "若梁灏，八十二。对大廷，魁多士。彼既成，众称异。尔小生，宜立志。",
+    "speech": "课文用梁灏八十二岁在朝廷考试中出众的传统故事，说明立志与坚持的重要。古人的劝学故事不等于完整的历史记录，读故事时重在理解它想表达的道理。"
+  },
+  {
+    "title": "祖莹与李泌 · 学会欣赏和学习",
+    "phrases": [
+      {
+        "text": "莹八岁",
+        "pinyin": [
+          "yíng",
+          "bā",
+          "suì"
+        ],
+        "audio": "audio/phrase-47d1aebd8f1d.mp3",
+        "spoken": "莹八岁"
+      },
+      {
+        "text": "能咏诗",
+        "pinyin": [
+          "néng",
+          "yǒng",
+          "shī"
+        ],
+        "audio": "audio/phrase-ffd905905a9d.mp3",
+        "spoken": "能咏诗"
+      },
+      {
+        "text": "泌七岁",
+        "pinyin": [
+          "bì",
+          "qī",
+          "suì"
+        ],
+        "audio": "audio/phrase-871ae940d98b.mp3",
+        "spoken": "毕七岁"
+      },
+      {
+        "text": "能赋棋",
+        "pinyin": [
+          "néng",
+          "fù",
+          "qí"
+        ],
+        "audio": "audio/phrase-ffea5e5bafd6.mp3",
+        "spoken": "能赋棋"
+      },
+      {
+        "text": "彼颖悟",
+        "pinyin": [
+          "bǐ",
+          "yǐng",
+          "wù"
+        ],
+        "audio": "audio/phrase-8cdf8e89375f.mp3",
+        "spoken": "彼颖悟"
+      },
+      {
+        "text": "人称奇",
+        "pinyin": [
+          "rén",
+          "chēng",
+          "qí"
+        ],
+        "audio": "audio/phrase-c9a844fdef84.mp3",
+        "spoken": "人称奇"
+      },
+      {
+        "text": "尔幼学",
+        "pinyin": [
+          "ěr",
+          "yòu",
+          "xué"
+        ],
+        "audio": "audio/phrase-d52fff8d5cf3.mp3",
+        "spoken": "尔幼学"
+      },
+      {
+        "text": "当效之",
+        "pinyin": [
+          "dāng",
+          "xiào",
+          "zhī"
+        ],
+        "audio": "audio/phrase-6129cc2c3aaf.mp3",
+        "spoken": "当效之"
+      }
+    ],
+    "meaning": "莹指祖莹，泌指李泌。课文讲他们小时候能作诗、写赋，聪明敏捷，人们称奇。劝孩子学习他们认真求学、发挥所长的精神。",
+    "tip": "“李泌”的“泌”读 bì。每个人擅长的事情不同，不必因为自己没有早慧就着急。",
+    "audio": "audio/explain-fec16b1ab09b.mp3",
+    "pdfPage": 43,
+    "printedPage": 42,
+    "sourceText": "莹八岁，能咏诗。泌七岁，能赋棋。彼颖悟，人称奇。尔幼学，当效之。",
+    "speech": "莹指祖莹，泌指李毕。课文讲他们小时候能作诗、写赋，聪明敏捷，人们称奇。劝孩子学习他们认真求学、发挥所长的精神。"
+  },
+  {
+    "title": "蔡文姬与谢道韫 · 才能不分男女",
+    "phrases": [
+      {
+        "text": "蔡文姬",
+        "pinyin": [
+          "cài",
+          "wén",
+          "jī"
+        ],
+        "audio": "audio/phrase-9f64d0297176.mp3",
+        "spoken": "蔡文姬"
+      },
+      {
+        "text": "能辨琴",
+        "pinyin": [
+          "néng",
+          "biàn",
+          "qín"
+        ],
+        "audio": "audio/phrase-bb92e6469b33.mp3",
+        "spoken": "能辨琴"
+      },
+      {
+        "text": "谢道韫",
+        "pinyin": [
+          "xiè",
+          "dào",
+          "yùn"
+        ],
+        "audio": "audio/phrase-36d3f2ffdfa9.mp3",
+        "spoken": "谢道韫"
+      },
+      {
+        "text": "能咏吟",
+        "pinyin": [
+          "néng",
+          "yǒng",
+          "yín"
+        ],
+        "audio": "audio/phrase-56dc1488bcd7.mp3",
+        "spoken": "能咏吟"
+      },
+      {
+        "text": "彼女子",
+        "pinyin": [
+          "bǐ",
+          "nǚ",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-8b644b078814.mp3",
+        "spoken": "彼女子"
+      },
+      {
+        "text": "且聪敏",
+        "pinyin": [
+          "qiě",
+          "cōng",
+          "mǐn"
+        ],
+        "audio": "audio/phrase-23a6e627663a.mp3",
+        "spoken": "且聪敏"
+      },
+      {
+        "text": "尔男子",
+        "pinyin": [
+          "ěr",
+          "nán",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-cbc503f2ac1c.mp3",
+        "spoken": "尔男子"
+      },
+      {
+        "text": "当自警",
+        "pinyin": [
+          "dāng",
+          "zì",
+          "jǐng"
+        ],
+        "audio": "audio/phrase-1355acdc7a4c.mp3",
+        "spoken": "当自警"
+      }
+    ],
+    "meaning": "蔡文姬懂音乐，谢道韫擅长诗文，都是古代有才华的女性。课文借她们的故事勉励读者学习。今天我们知道，无论男孩女孩，都能读书、思考、发展自己的才能。",
+    "tip": "“谢道韫”的“韫”读 yùn。尊重每个人的兴趣与努力，不按性别限制本领。",
+    "audio": "audio/explain-35bb49be1692.mp3",
+    "pdfPage": 44,
+    "printedPage": 43,
+    "sourceText": "蔡文姬，能辨琴。谢道韫，能咏吟。彼女子，且聪敏。尔男子，当自警。",
+    "speech": "蔡文姬懂音乐，谢道韫擅长诗文，都是古代有才华的女性。课文借她们的故事勉励读者学习。今天我们知道，无论男孩女孩，都能读书、思考、发展自己的才能。"
+  },
+  {
+    "title": "刘晏 · 从小认真学习",
+    "phrases": [
+      {
+        "text": "唐刘晏",
+        "pinyin": [
+          "táng",
+          "liú",
+          "yàn"
+        ],
+        "audio": "audio/phrase-a32df72b28a8.mp3",
+        "spoken": "唐刘晏"
+      },
+      {
+        "text": "方七岁",
+        "pinyin": [
+          "fāng",
+          "qī",
+          "suì"
+        ],
+        "audio": "audio/phrase-59d143c0a6ab.mp3",
+        "spoken": "方七岁"
+      },
+      {
+        "text": "举神童",
+        "pinyin": [
+          "jǔ",
+          "shén",
+          "tóng"
+        ],
+        "audio": "audio/phrase-0432c74c63d0.mp3",
+        "spoken": "举神童"
+      },
+      {
+        "text": "作正字",
+        "pinyin": [
+          "zuò",
+          "zhèng",
+          "zì"
+        ],
+        "audio": "audio/phrase-a7524fb12e49.mp3",
+        "spoken": "作正字"
+      },
+      {
+        "text": "彼虽幼",
+        "pinyin": [
+          "bǐ",
+          "suī",
+          "yòu"
+        ],
+        "audio": "audio/phrase-82743486475c.mp3",
+        "spoken": "彼虽幼"
+      },
+      {
+        "text": "身已仕",
+        "pinyin": [
+          "shēn",
+          "yǐ",
+          "shì"
+        ],
+        "audio": "audio/phrase-bd40422bb474.mp3",
+        "spoken": "身已仕"
+      },
+      {
+        "text": "尔幼学",
+        "pinyin": [
+          "ěr",
+          "yòu",
+          "xué"
+        ],
+        "audio": "audio/phrase-d52fff8d5cf3.mp3",
+        "spoken": "尔幼学"
+      },
+      {
+        "text": "勉而致",
+        "pinyin": [
+          "miǎn",
+          "ér",
+          "zhì"
+        ],
+        "audio": "audio/phrase-13038e3a33e3.mp3",
+        "spoken": "勉而致"
+      }
+    ],
+    "meaning": "课文讲刘晏七岁被举为神童、担任正字的故事。正字是古代校正文字的官职。这里借故事鼓励孩子努力学习，逐步达到自己的目标。",
+    "tip": "“勉而致”是努力去达到。学习的目标是成长和学会本领，不是争着早早做官。",
+    "audio": "audio/explain-cf1ac28f5c35.mp3",
+    "pdfPage": 45,
+    "printedPage": 44,
+    "sourceText": "唐刘晏，方七岁。举神童，作正字。彼虽幼，身已仕。尔幼学，勉而致。",
+    "speech": "课文讲刘晏七岁被举为神童、担任正字的故事。正字是古代校正文字的官职。这里借故事鼓励孩子努力学习，逐步达到自己的目标。"
+  },
+  {
+    "title": "各有本领 · 人也要努力",
+    "phrases": [
+      {
+        "text": "有为者",
+        "pinyin": [
+          "yǒu",
+          "wéi",
+          "zhě"
+        ],
+        "audio": "audio/phrase-6d431ee63adb.mp3",
+        "spoken": "有为者"
+      },
+      {
+        "text": "亦若是",
+        "pinyin": [
+          "yì",
+          "ruò",
+          "shì"
+        ],
+        "audio": "audio/phrase-8a5a81bd6682.mp3",
+        "spoken": "亦若是"
+      },
+      {
+        "text": "犬守夜",
+        "pinyin": [
+          "quǎn",
+          "shǒu",
+          "yè"
+        ],
+        "audio": "audio/phrase-e84b20910bb2.mp3",
+        "spoken": "犬守夜"
+      },
+      {
+        "text": "鸡司晨",
+        "pinyin": [
+          "jī",
+          "sī",
+          "chén"
+        ],
+        "audio": "audio/phrase-1ff85b7d9f4c.mp3",
+        "spoken": "鸡司晨"
+      },
+      {
+        "text": "苟不学",
+        "pinyin": [
+          "gǒu",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-7310889e7223.mp3",
+        "spoken": "苟不学"
+      },
+      {
+        "text": "曷为人",
+        "pinyin": [
+          "hé",
+          "wéi",
+          "rén"
+        ],
+        "audio": "audio/phrase-0852cde0f3ac.mp3",
+        "spoken": "曷为人"
+      },
+      {
+        "text": "蚕吐丝",
+        "pinyin": [
+          "cán",
+          "tǔ",
+          "sī"
+        ],
+        "audio": "audio/phrase-d5eb61580e7a.mp3",
+        "spoken": "蚕吐丝"
+      },
+      {
+        "text": "蜂酿蜜",
+        "pinyin": [
+          "fēng",
+          "niàng",
+          "mì"
+        ],
+        "audio": "audio/phrase-8fe7dfdf4717.mp3",
+        "spoken": "蜂酿蜜"
+      }
+    ],
+    "meaning": "有作为的人也可以像前面的榜样那样努力。狗守夜，鸡报晓，蚕吐丝，蜜蜂酿蜜，课文用动物各有本领来提醒人珍惜自己的学习机会。",
+    "tip": "学习不能决定一个人的全部价值；你可以慢慢学会有用的本领，也学着帮助别人。",
+    "audio": "audio/explain-2f6d142842a3.mp3",
+    "pdfPage": 46,
+    "printedPage": 45,
+    "sourceText": "有为者，亦若是。犬守夜，鸡司晨。苟不学，曷为人。蚕吐丝，蜂酿蜜。",
+    "speech": "有作为的人也可以像前面的榜样那样努力。狗守夜，鸡报晓，蚕吐丝，蜜蜂酿蜜，课文用动物各有本领来提醒人珍惜自己的学习机会。"
+  },
+  {
+    "title": "学以致用 · 长大后承担责任",
+    "phrases": [
+      {
+        "text": "人不学",
+        "pinyin": [
+          "rén",
+          "bù",
+          "xué"
+        ],
+        "audio": "audio/phrase-a323124e74a6.mp3",
+        "spoken": "人不学"
+      },
+      {
+        "text": "不如物",
+        "pinyin": [
+          "bù",
+          "rú",
+          "wù"
+        ],
+        "audio": "audio/phrase-456c36ca4d34.mp3",
+        "spoken": "不如物"
+      },
+      {
+        "text": "幼而学",
+        "pinyin": [
+          "yòu",
+          "ér",
+          "xué"
+        ],
+        "audio": "audio/phrase-b3c5c01f70cf.mp3",
+        "spoken": "幼而学"
+      },
+      {
+        "text": "壮而行",
+        "pinyin": [
+          "zhuàng",
+          "ér",
+          "xíng"
+        ],
+        "audio": "audio/phrase-219b25477b96.mp3",
+        "spoken": "壮而行"
+      },
+      {
+        "text": "上致君",
+        "pinyin": [
+          "shàng",
+          "zhì",
+          "jūn"
+        ],
+        "audio": "audio/phrase-9a2234534911.mp3",
+        "spoken": "上致君"
+      },
+      {
+        "text": "下泽民",
+        "pinyin": [
+          "xià",
+          "zé",
+          "mín"
+        ],
+        "audio": "audio/phrase-7abd6b33937a.mp3",
+        "spoken": "下泽民"
+      },
+      {
+        "text": "扬名声",
+        "pinyin": [
+          "yáng",
+          "míng",
+          "shēng"
+        ],
+        "audio": "audio/phrase-3352cfe12473.mp3",
+        "spoken": "扬名声"
+      },
+      {
+        "text": "显父母",
+        "pinyin": [
+          "xiǎn",
+          "fù",
+          "mǔ"
+        ],
+        "audio": "audio/phrase-224ec76aa8a8.mp3",
+        "spoken": "显父母"
+      }
+    ],
+    "meaning": "课文劝人小时候学习，长大把所学用在行动中。上致君、下泽民，表达古人服务国家、帮助百姓的理想；扬名显亲，是希望以好的品行让父母欣慰。",
+    "tip": "今天可以从诚实、负责、帮助同学等小事做起，把学到的道理用出来。",
+    "audio": "audio/explain-9982ca3028d1.mp3",
+    "pdfPage": 47,
+    "printedPage": 46,
+    "sourceText": "人不学，不如物。幼而学，壮而行。上致君，下泽民。扬名声，显父母。",
+    "speech": "课文劝人小时候学习，长大把所学用在行动中。上致君、下泽民，表达古人服务国家、帮助百姓的理想；扬名显亲，是希望以好的品行让父母欣慰。"
+  },
+  {
+    "title": "读书传家 · 留下好习惯",
+    "phrases": [
+      {
+        "text": "光于前",
+        "pinyin": [
+          "guāng",
+          "yú",
+          "qián"
+        ],
+        "audio": "audio/phrase-0eb64d7ade27.mp3",
+        "spoken": "光于前"
+      },
+      {
+        "text": "裕于后",
+        "pinyin": [
+          "yù",
+          "yú",
+          "hòu"
+        ],
+        "audio": "audio/phrase-d4ad038a13a4.mp3",
+        "spoken": "裕于后"
+      },
+      {
+        "text": "人遗子",
+        "pinyin": [
+          "rén",
+          "yí",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-5d9121a7a720.mp3",
+        "spoken": "人宜子"
+      },
+      {
+        "text": "金满籯",
+        "pinyin": [
+          "jīn",
+          "mǎn",
+          "yíng"
+        ],
+        "audio": "audio/phrase-24cc9039cf39.mp3",
+        "spoken": "金满赢"
+      },
+      {
+        "text": "我教子",
+        "pinyin": [
+          "wǒ",
+          "jiào",
+          "zǐ"
+        ],
+        "audio": "audio/phrase-0106e8d87c19.mp3",
+        "spoken": "我教子"
+      },
+      {
+        "text": "惟一经",
+        "pinyin": [
+          "wéi",
+          "yī",
+          "jīng"
+        ],
+        "audio": "audio/phrase-d9f497c1bb6b.mp3",
+        "spoken": "惟一经"
+      },
+      {
+        "text": "勤有功",
+        "pinyin": [
+          "qín",
+          "yǒu",
+          "gōng"
+        ],
+        "audio": "audio/phrase-625d448ee2b4.mp3",
+        "spoken": "勤有功"
+      },
+      {
+        "text": "戏无益",
+        "pinyin": [
+          "xì",
+          "wú",
+          "yì"
+        ],
+        "audio": "audio/phrase-d65c23165805.mp3",
+        "spoken": "戏无益"
+      }
+    ],
+    "meaning": "课文说，有人给孩子留下金钱，作者更想把读书的道理传给孩子。努力学习会有收获，过度贪玩会耽误学习，因此要珍惜时间。籯是装东西的竹笼一类器物。",
+    "tip": "“金满籯”的“籯”读 yíng。玩耍也有价值，学习、运动、休息要合理安排。",
+    "audio": "audio/explain-d4bbe9b7c0f6.mp3",
+    "pdfPage": 48,
+    "printedPage": 47,
+    "sourceText": "光于前，裕于后。人遗子，金满籯。我教子，惟一经。勤有功，戏无益。",
+    "speech": "课文说，有人给孩子留下金钱，作者更想把读书的道理传给孩子。努力学习会有收获，过度贪玩会耽误学习，因此要珍惜时间。籯是装东西的竹笼一类器物。"
+  },
+  {
+    "title": "戒之哉 · 继续努力",
+    "phrases": [
+      {
+        "text": "戒之哉",
+        "pinyin": [
+          "jiè",
+          "zhī",
+          "zāi"
+        ],
+        "audio": "audio/phrase-240c66b20044.mp3",
+        "spoken": "戒之哉"
+      },
+      {
+        "text": "宜勉力",
+        "pinyin": [
+          "yí",
+          "miǎn",
+          "lì"
+        ],
+        "audio": "audio/phrase-6ad5eba8a484.mp3",
+        "spoken": "宜勉力"
+      }
+    ],
+    "meaning": "课文最后提醒我们，记住前面的道理，认真勉励自己。学习和成长靠一点点积累，不需要一口气做到完美。",
+    "tip": "今天读懂一句、背会一小段，就值得给自己一点鼓励。",
+    "audio": "audio/explain-5f94fb737cc3.mp3",
+    "pdfPage": 49,
+    "printedPage": 48,
+    "sourceText": "戒之哉，宜勉力。",
+    "speech": "课文最后提醒我们，记住前面的道理，认真勉励自己。学习和成长靠一点点积累，不需要一口气做到完美。"
+  }
+]
