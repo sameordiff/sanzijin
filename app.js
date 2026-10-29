@@ -7,11 +7,12 @@ let voices=[], utterance=null, voicePreference='auto';
 try{voicePreference=localStorage.getItem('sanzijing-voice')||'auto';}catch{}
 function isTaiwanVoice(v){return /(?:^|[-_])TW(?:$|[-_])/i.test(v.lang||'')||/taiwan|台湾|臺灣|台灣/i.test((v.name||'')+' '+(v.voiceURI||''));}
 function isCantoneseVoice(v){return /^yue(?:[-_]|$)/i.test(v.lang||'')||/^zh(?:[-_](?:Hans|Hant))?[-_]HK(?:[-_]|$)/i.test(v.lang||'')||/cantonese|[粤粵][语語]|[广廣][东東][话話]/i.test(v.name||'');}
+function isExcludedVoice(v){return isTaiwanVoice(v)||(/google/i.test((v.name||'')+' '+(v.voiceURI||''))&&isCantoneseVoice(v));}
 function updateVoices(){
  const availableVoices=synth?synth.getVoices():[];
- if(availableVoices.some(v=>v.voiceURI===voicePreference&&isTaiwanVoice(v))){voicePreference='auto';try{localStorage.setItem('sanzijing-voice','auto');}catch{}if(utterance&&isTaiwanVoice(utterance.voice||{}))stop(false);}
+ if(availableVoices.some(v=>v.voiceURI===voicePreference&&isExcludedVoice(v))){voicePreference='auto';try{localStorage.setItem('sanzijing-voice','auto');}catch{}if(utterance&&isExcludedVoice(utterance.voice||{}))stop(false);}
  const previous=$('#voice').value;
- voices=availableVoices.filter(v=>(/^zh(?:[-_](?:Hans|Hant))?[-_](CN|SG|HK)(?:[-_]|$)/i.test(v.lang)||/^cmn(?:[-_]|$)/i.test(v.lang)||isCantoneseVoice(v))&&!isTaiwanVoice(v));
+ voices=availableVoices.filter(v=>(/^zh(?:[-_](?:Hans|Hant))?[-_](CN|SG|HK)(?:[-_]|$)/i.test(v.lang)||/^cmn(?:[-_]|$)/i.test(v.lang)||isCantoneseVoice(v))&&!isExcludedVoice(v));
  const score=v=>(/zh[-_]CN|cmn[-_]Hans/i.test(v.lang)?100:0)+(/natural|neural|premium|enhanced|晓晓|xiaoxiao|xiaoyi|siri/i.test(v.name)?50:0)+(/female|tingting|婷婷/i.test(v.name)?5:0);
  voices.sort((a,b)=>score(b)-score(a));
  $('#voice').innerHTML='<option value="auto">手机中文 · 自动优选</option>'+voices.map((v,i)=>{const o=document.createElement('option');o.value='voice:'+i;o.textContent=v.name+' · '+(isCantoneseVoice(v)?'粤语':'普通话');return o.outerHTML}).join('')+'<option value="recorded">普通话录音 · 备用</option>';
